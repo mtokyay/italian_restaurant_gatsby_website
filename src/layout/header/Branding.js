@@ -1,7 +1,7 @@
 import React from "react"
 import styled from "styled-components"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
-import logoImage from "../../img/branding/Mondello Restaurant logo.svg"
+import logoImage from "../../img/branding/tokyaybahce.svg"
 import { globalHistory as history } from "@reach/router"
 import { animateScroll as scroll } from "react-scroll"
 
@@ -27,12 +27,12 @@ export default function Branding() {
       {path === "/" ? (
         <StyledLogo
           src={logoImage}
-          alt="Mondello Restaurant logo"
+          alt="Tokyay Bahçe logo"
           onClick={() => scroll.scrollTo(0)}
         ></StyledLogo>
       ) : (
         <AniLink to="/" cover direction="right" duration={1} bg="#968b63">
-          <img src={logoImage} alt="Mondello Restaurant logo"></img>
+          <img src={logoImage} alt="Tokyay Bahçe logo"></img>
         </AniLink>
       )}
     </StyledLogoWrapper>

@@ -7,9 +7,9 @@ const path = require(`path`)
 
 module.exports = {
   siteMetadata: {
-    title: `Mondello Restaurant`,
-    description: `Website of a traditional Italian restaurant. `,
-    author: `Marcin Cirocki`,
+    title: `Tokyay Bahçe`,
+    description: `Balıkesir Gönen'de Et, Pide, Kahvaltı, Tatlı, Kahve çeşitleriyle hizmete girmiştir.`,
+    author: `Tokyay Bahçe`,
   },
   plugins: [
     {

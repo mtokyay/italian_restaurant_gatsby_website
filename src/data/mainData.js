@@ -1,7 +1,7 @@
 export const mainData = {
-  websiteTitle: "Mondello",
-  address: "Via delle Viole 186, 90149 Palermo",
-  lang: "eng",
-  author: "CIROCKI.PL",
-  authorURL: "https://cirocki.pl/",
+  websiteTitle: "TokyayBahce",
+  address: "Balıkesir/Gönen",
+  lang: "tr",
+  author: "mehmettokyay",
+  authorURL: "https://www.mehmettokyay.com",
 }

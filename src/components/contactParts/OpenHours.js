@@ -13,16 +13,8 @@ export default function OpenHours() {
   return (
     <StyledDiv>
       <StyledList>
-        <dt>Monday - Friday</dt>
-        <dd>8:00 am to 10:00 pm</dd>
-      </StyledList>
-      <StyledList>
-        <dt>Saturday</dt>
-        <dd>8:00 am to 11:30 pm</dd>
-      </StyledList>
-      <StyledList>
-        <dt>Sunday</dt>
-        <dd>11:00 am to 10:00 pm</dd>
+        <dt>Pazartesi - Pazar</dt>
+        <dd>09:00 - 22:00</dd>
       </StyledList>
     </StyledDiv>
   )

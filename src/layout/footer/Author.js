@@ -21,7 +21,7 @@ export default function Author() {
   return (
     <div>
       <StyledParagraph>
-        Designed and developed by{" "}
+        Tokyay Bahçe{" "}
         <StyledLink href={authorWebsite}>{author}</StyledLink>
       </StyledParagraph>
     </div>

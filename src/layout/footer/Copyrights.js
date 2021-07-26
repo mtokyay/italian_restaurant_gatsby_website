@@ -19,9 +19,9 @@ export default function Copyrights() {
     <StyledWrapper>
       <p>
         © {currentYear} {copyrightsOwner} -{" "}
-        {language === "eng"
-          ? "All rights reserved."
-          : "Wszystkie prawa zastrzeżone."}
+        {language === "tr"
+          ? "Bütün Hakları Saklıdır."
+          : "Tokyay Bahçe."}
       </p>
     </StyledWrapper>
   )

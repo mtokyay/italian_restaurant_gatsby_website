@@ -13,12 +13,12 @@ export default function OurMenuPage() {
   return (
     <Layout>
       <SEO
-        title="Our Menu"
+        title="Menü"
         description="The kitchen offers delicious specialties of the Sicilian tradition. Check menu in Mondello restaurant."
       />
       <StyledMainWrapper>
         <PageHeader
-          heading="Our Menu"
+          heading="Menü"
           subheading="The kitchen offers delicious specialties of the Sicilian
           tradition, such as Arancini, Caponata and many more."
         />

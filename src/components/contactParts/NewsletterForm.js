@@ -51,9 +51,9 @@ export default function NewsletterForm() {
         <StyledEmailInput
           type="email"
           name="email"
-          placeholder="Your email address"
+          placeholder="Mail Adresini Yazabilirsiniz."
         />
-        <StyledSubmitInput type="submit" value="Submit" />
+        <StyledSubmitInput type="submit" value="Gönder" />
       </StyledForm>
     </div>
   )

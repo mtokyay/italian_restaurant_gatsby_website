@@ -1,26 +1,16 @@
 export const navItemsData = [
   {
     path: "/",
-    name: "Home",
+    name: "Anasayfa",
   },
+
   {
-    path: "/about",
-    name: "About",
+    path: "/menu",
+    name: "Menü",
   },
-  {
-    path: "/history",
-    name: "History",
-  },
-  {
-    path: "/our-menu",
-    name: "Our Menu",
-  },
-  {
-    path: "/reservation",
-    name: "Reservation",
-  },
+
   {
     path: "/contact",
-    name: "Contact",
+    name: "İletişim",
   },
 ]

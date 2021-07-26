@@ -1,7 +1,7 @@
 export const menuItemsData = [
   {
     id: 0,
-    title: "Starters",
+    title: "Başlangıç",
     list: [
       {
         name: "Creamy Ricotta Spaghetti ",
