@@ -12,11 +12,11 @@ export default function ExamplePage() {
   return (
     <Layout>
       <Helmet>
-        <title>Example | Mondello Restaurant</title>
+        <title>Örnek | Tokyay Bahçe</title>
       </Helmet>
       <StyledMainDiv>
         <Container>
-          <h1>Page example</h1>
+          <h1>Örnek Sayfa</h1>
         </Container>
       </StyledMainDiv>
     </Layout>

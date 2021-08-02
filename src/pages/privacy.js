@@ -13,7 +13,7 @@ export default function PrivacyPage() {
   return (
     <Layout>
       <Helmet>
-        <title>Privacy | Mondello Restaurant</title>
+        <title>Yasal Zorunluluklar | Tokyay Bahçe</title>
       </Helmet>
       <StyledMainDiv>
         <PrivacyHeader />

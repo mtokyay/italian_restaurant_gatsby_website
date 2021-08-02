@@ -14,13 +14,11 @@ export default function OurMenuPage() {
     <Layout>
       <SEO
         title="Menü"
-        description="The kitchen offers delicious specialties of the Sicilian tradition. Check menu in Mondello restaurant."
-      />
+        description="Mutfaktan çıkan lezzetli geleneksel lezzetlere Tokyay Bahçe menüsünden ulaşabilirsiniz."/>
       <StyledMainWrapper>
         <PageHeader
           heading="Menü"
-          subheading="The kitchen offers delicious specialties of the Sicilian
-          tradition, such as Arancini, Caponata and many more."
+          subheading="Mutfaktan çıkan lezzetli geleneksel lezzetlere Tokyay Bahçe menüsünden ulaşabilirsiniz."
         />
         <MenuBody />
       </StyledMainWrapper>

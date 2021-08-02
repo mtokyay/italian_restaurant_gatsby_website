@@ -23,7 +23,7 @@ export default function FooterLinks() {
         duration={1}
         bg="#968b63"
       >
-        Privacy Policy
+        Gizlilik Politikamız
       </StyledLink>
       <StyledLink
         to="/privacy"
@@ -32,7 +32,7 @@ export default function FooterLinks() {
         duration={1}
         bg="#968b63"
       >
-        Terms of Use
+        Yasal Zorunluluklar
       </StyledLink>
     </StyledWrapper>
   )

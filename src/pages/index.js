@@ -13,8 +13,8 @@ export default function Home() {
   return (
     <Layout>
       <SEO
-        title="Home"
-        description="Mondello Restaurant - We specialize in homemade classic Italian pizza, pasta, salads, soups and much more.."
+        title="Anasayfa"
+        description="Tokyay Bahçe Balıkesir Gönen - Et, pide, kahvaltı, tatlı, kahve ve bir çok lezzetimizi denemek için sizleri bekliyoruz."
       />
       <main>
         <HeroSection />

@@ -35,12 +35,12 @@ export default function PageNotFound() {
   return (
     <Layout>
       <Helmet>
-        <title>Page Not Found | Mondello Restaurant</title>
+        <title>Sayfa Bulunamadı | Tokyay Bahçe</title>
       </Helmet>
       <StyledSection>
         <StyledWrapper>
           <StyledHeading>404</StyledHeading>
-          <StyledSubheading>Page Not Found</StyledSubheading>
+          <StyledSubheading>Sayfa Bulunamadı</StyledSubheading>
         </StyledWrapper>
       </StyledSection>
     </Layout>

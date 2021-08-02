@@ -84,7 +84,7 @@ export default function ContactSection() {
       <Container>
         <StyledGrid>
           <StyledContactDetails ref={addToRefs}>
-            <StyledTitle>Contact</StyledTitle>
+            <StyledTitle>İletişim</StyledTitle>
             <address>
               <Address />
               <Socials />
@@ -93,13 +93,13 @@ export default function ContactSection() {
             </address>
           </StyledContactDetails>
           <StyledLinks ref={addToRefs}>
-            <StyledTitle>Links</StyledTitle>
+            <StyledTitle>Linkler</StyledTitle>
             <FastLinks />
           </StyledLinks>
           <StyledHours ref={addToRefs}>
-            <StyledTitle>Open hours</StyledTitle>
+            <StyledTitle>Açılış Saatleri</StyledTitle>
             <OpenHours />
-            <StyledTitle style={{ marginTop: "70px" }}>Newsletter</StyledTitle>
+            <StyledTitle style={{ marginTop: "70px" }}>Mail Kayıt</StyledTitle>
             <NewsletterForm />
           </StyledHours>
         </StyledGrid>

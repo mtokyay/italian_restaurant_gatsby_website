@@ -117,9 +117,9 @@ export default function HeroSection() {
     <StyledSection Tag="section" fluid={imageData} backgroundColor={`#16191a`}>
       <Container>
         <StyledHeaderWrapper ref={headerRef}>
-          <StyledHeading ref={headingRef}>Mondello</StyledHeading>
+          <StyledHeading ref={headingRef}>Tokyay Bahçe</StyledHeading>
           <StyledSubheading ref={subheadingRef}>
-            Explore the real taste of Italy!
+            Balıkesir Gönen'de hizmete giren Tokyay Bahçe'de lezzetleri deneyimle.
           </StyledSubheading>
         </StyledHeaderWrapper>
       </Container>

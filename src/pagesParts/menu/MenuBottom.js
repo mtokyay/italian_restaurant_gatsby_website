@@ -37,7 +37,7 @@ export default function MenuBottom() {
           check secret menu items in our restaurant.
         </OldSchoolHeading>
         <ButtonGhost to="/reservation" align="center">
-          Reservation
+          Rezervasyon
         </ButtonGhost>
       </StyledInnerWrapper>
     </StyledMainWrapper>

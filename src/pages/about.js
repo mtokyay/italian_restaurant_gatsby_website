@@ -15,13 +15,13 @@ export default function AboutPage() {
   return (
     <Layout>
       <SEO
-        title="About Us"
-        description="We believe that food brings people together, so we care for every detail, to make your visit here unforgettable."
+        title="Hakkımızda"
+        description="İnanıyoruzki yemek birlikte paylaşında güzel, bunun için unutulmaz bir deneyim yaşamanız için her detayı düşünüyoruz."
       />
       <StyledMainDiv>
         <PageHeader
-          heading="About Us"
-          subheading="We believe that food brings people together, so we care for every detail, to make your visit here unforgettable."
+          heading="Hakkımızda"
+          subheading="İnanıyoruzki yemek birlikte paylaşında güzel, bunun için unutulmaz bir deneyim yaşamanız için her detayı düşünüyoruz."
         />
         <AboutTop />
         <AboutMid />

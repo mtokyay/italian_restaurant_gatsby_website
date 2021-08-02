@@ -1,6 +1,7 @@
 import React from "react"
 import styled from "styled-components"
 import { menuItemsData } from "../../data/FullMenu"
+import Img from "gatsby-image"
 
 const StyledHeading = styled.h2`
   padding-bottom: 2rem;

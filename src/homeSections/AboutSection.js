@@ -151,7 +151,7 @@ export default function AboutSection() {
         <StyledGrid>
           <StyledHeaderWrapper>
             <StyledHeader ref={headerRef}>
-              <ModernHeading>About Us</ModernHeading>
+              <ModernHeading>Hakkımızda</ModernHeading>
               <OldSchoolHeading>
                 We believe that food brings people together, so we care for
                 every detail, to make your visit here unforgettable.

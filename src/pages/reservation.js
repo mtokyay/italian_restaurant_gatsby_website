@@ -15,15 +15,13 @@ export default function OurMenuPage() {
   return (
     <Layout>
       <SEO
-        title="Reservation"
-        description="There are always new and exciting food adventures waiting for You.
-        Book your favourite table in Mondello."
+        title="Rezervasyon"
+        description="Tokyay Bahçe için rezervasyon yapabilirsiniz."
       />
       <StyledMainWrapper>
         <PageHeader
-          heading="Reservation"
-          subheading="There are always new and exciting food adventures waiting for You.
-          Book your favourite table in Mondello."
+          heading="Rezervasyon"
+          subheading="Tokyay Bahçe için rezervasyon yapabilirsiniz."
         />
         <ReservationMid />
         <ReservationBottom />

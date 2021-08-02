@@ -1,305 +1,530 @@
+import { faImage } from "@fortawesome/free-solid-svg-icons"
+
 export const menuItemsData = [
   {
     id: 0,
-    title: "Başlangıç",
+    title: "KAHVALTI",
     list: [
       {
-        name: "Creamy Ricotta Spaghetti ",
+        name: "Tek Kişilik Kahvaltı",
         desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "19.00 €",
+          "Bal, Vişne Reçeli, Çilek Reçeli, Tereyağ, Beyaz Peynir,",
+        price: "₺",
       },
       {
-        name: "Caprese Chicken",
+        name: "Serpme Kahvalti",
         desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "13.00 €",
+          "2 KİŞİ",
+        price: "₺",
       },
       {
-        name: "Italian Angel Hair Salad",
+        name: "Tost",
         desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "46.00 €",
-      },
-      {
-        name: "Pasta alla Normandia",
-        desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "46.00 €",
-      },
-      {
-        name: "Sardenia beccafico",
-        desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "23.00 €",
-      },
-      {
-        name: "Involtini Neapoli",
-        desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "30.00 €",
-      },
-      {
-        name: "Cannolito",
-        desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "14.00 €",
+          "İçerik",
+        price: "₺",
       },
     ],
   },
 
   {
     id: 1,
-    title: "Breakfast",
+    title: "ARA SICAKLAR",
     list: [
       {
-        name: "Creamy Tuscan Sausage Pasta",
+        name: "Çıtır Tavuk",
         desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "15.00 €",
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Summer Panzanella",
+        name: "Elma DİLİm Patates Kızartması",
         desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "18.00 €",
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Caprese Pasta Salad",
+        name: "İçlİ Köfte",
         desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "46.00 €",
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Tomato Butter Spaghetti",
+        name: "Kaşarlı Güveç Mantar",
         desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "46.00 €",
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Caprese Asparagus",
+        name: "Keyİf Sepetİ",
         desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "23.00 €",
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Easy Carbonara",
+        name: "Patates Kızartması",
         desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "30.00 €",
+          "İçerik",
+        price: "₺",
       },
-      {
-        name: "Caprese Zoodles",
-        desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "19.00 €",
-      },
+
     ],
   },
   {
     id: 2,
-    title: "Mains",
+    title: "IZGARALAR",
     list: [
       {
-        name: "Italian Chicken Skillet",
+        name: "Antrikot",
         desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "23.00 €",
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Caponata",
+        name: "bonfİle",
         desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "13.00 €",
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Busiate al pesto Trapanese",
+        name: "CİĞER SARMA",
         desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "46.00 €",
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Pasta alla Norma",
+        name: "Dallas Steak",
         desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "46.00 €",
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Sarde a beccafico",
+        name: "Dana Şaşlik",
         desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "23.00 €",
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Involtini di pesce spade",
+        name: "Hellİm - Fistikli (Sucuk)",
         desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "30.00 €",
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Italian Sub Pasta Salad ",
+        name: "Karişik Izgara ",
         desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "19.00 €",
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Involtini didere spade",
+        name: "Kasap Köfte",
         desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "30.00 €",
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Caprese Mac and Cheese ",
+        name: "Kaşarli Köfte ",
         desc:
-          "Green vegetables . spiced bread crumbs . chips or mashed potatoes . french dressing.",
-        price: "19.00 €",
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "Kuzu Külbasti ",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "Kuzu Pİrzola",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "T-Bone Steak ",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "Tavuk Izgara ",
+        desc:
+          "İçerik",
+        price: "₺",
       },
     ],
   },
   {
     id: 3,
-    title: "Sides",
+    title: "TAVA YEMEKLERİ",
     list: [
       {
-        name: "Texas Toast",
+        name: "BARBERKÜ SOSLU TAVUK",
         desc:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste architecto impedit cumque.",
-        price: "23.00 €",
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Best Garlic Bread",
+        name: "ÇOBAN KAVURMA",
         desc:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste architecto impedit cumque.",
-        price: "13.00 €",
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Caprese Tomatoes",
+        name: "KAŞARLI KÖFTE GÜVEÇ",
         desc:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste architecto impedit cumque.",
-        price: "46.00 €",
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Sun-Dried Tomatoes",
+        name: "KAVURMA GÜVEÇ",
         desc:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste architecto impedit cumque.",
-        price: "46.00 €",
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Garlic Butter Turkey Meatballs",
+        name: "KÖRİ SOSLU TAVUK",
         desc:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste architecto impedit cumque.",
-        price: "23.00 €",
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Focaccia ",
+        name: "KREMALI MANTARLI TAVUK ",
         desc:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste architecto impedit cumque.",
-        price: "30.00 €",
-      },
-      {
-        name: "Prosciutto Wrapped Asparagus",
-        desc:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste architecto impedit cumque.",
-        price: "19.00 €",
+          "İçerik",
+        price: "₺",
       },
     ],
   },
   {
     id: 4,
-    title: "Desserts",
+    title: "PİDELER",
     list: [
       {
-        name: "Tiramisu",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-        price: "13.00 €",
+        name: "Kaşarlı Pİde",
+        desc:
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Sfogliatelle",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-        price: "13.00 €",
+        name: "Kıymalı Pİde",
+        desc:
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Gelato",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-        price: "12.00 €",
+        name: "KİREMİT KÖFTE",
+        desc:
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Biscotti",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-        price: "14.00 €",
+        name: "KUŞBAŞI PİDE",
+        desc:
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Cannoli",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-        price: "13.00 €",
+        name: "Lahmacun",
+        desc:
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Sbrisolona",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-        price: "10.00 €",
+        name: "MANTAR KRATEN ",
+        desc:
+          "İçerik",
+        price: "₺",
       },
       {
-        name: "Panna Cotta",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-        price: "19.00 €",
+        name: "MEVLANA PİDE",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+
+    ],
+  },
+  {
+    id: 5,
+    title: "Makarnalar",
+    list: [
+      {
+        name: "FettucİNİ alfredo",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "LİNGUİNE PESTO",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "PENNE ARABİATA",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "SPAGETTİ BOLOGNESE",
+        desc:
+          "İçerik",
+        price: "₺",
       },
     ],
   },
 
   {
-    id: 5,
-    title: "Drinks",
+    id: 6,
+    title: "Hamburgerler",
     list: [
       {
-        name: "Margarita",
-        desc: "silver tequila, Cointreau, lime juice",
-        price: "8.00 €",
+        name: "Cheese Burger",
+        desc:"İçerik",
+        price: "₺",
       },
       {
-        name: "Cosmopolitan",
-        desc: "whiskey, lemon juice, sugar, egg white, sthg else",
-        price: "12.00 €",
+        name: "Çocuk Burger",
+        desc:"İçerik",
+        price: "₺",
       },
       {
-        name: "Negroni",
-        desc: "whiskey, lemon juice, sugar, egg white, sthg else",
-        price: "9.00 €",
+        name: "Hamburger",
+        desc:"İçerik",
+        price: "₺",
       },
       {
-        name: "Moscow Mule",
-        desc: "whiskey, lemon juice, sugar, egg white, sthg else",
-        price: "12.00 €",
+        name: "Lokum Burger",
+        desc:"İçerik",
+        price: "₺",
       },
       {
-        name: "Martini",
-        desc: "whiskey, lemon juice, sugar, egg white, sthg else",
-        price: "12.00 €",
+        name: "Normal Burger",
+        desc:"İçerik",
+        price: "₺",
       },
       {
-        name: "Mojito",
-        desc: "whiskey, lemon juice, sugar, egg white, sthg else",
-        price: "12.00 €",
-      },
-      {
-        name: "Whiskey Sour",
-        desc: "whiskey, lemon juice, sugar, egg white",
-        price: "15.00 €",
-      },
-      {
-        name: "Manhattan",
-        desc: "whiskey, lemon juice, sugar, egg white",
-        price: "10.00 €",
-      },
-      {
-        name: "Spritz",
-        desc: "whiskey, lemon juice, sugar, egg white",
-        price: "12.00 €",
-      },
-      {
-        name: "Daiquiri",
-        desc: "whiskey, lemon juice, sugar, egg white",
-        price: "12.00 €",
+        name: "Tokyay Burger",
+        desc:"İçerik",
+        price: "₺",
       },
     ],
   },
+  {
+    id: 7,
+    title: "TATLILAR",
+    list: [
+      {
+        name: "DEVİL'S PASTA",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "FISTIK RÜYASI",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "FRAMBUAZ CHEESECAKE",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "İSPANYOL CHEESECAKE",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "KÜNEFE",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "SÜTLAÇ",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+
+      {
+        name: "TİRAMİSU",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+    ],
+  },
+  {
+    id: 8,
+    title: "SALATALAR",
+    list: [
+      {
+        name: "AKDENİZ SALATASI",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "ÇOBAN SALATA",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "MEVSİM SALATA",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "ROKA SALATASI",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "TAVUK SALATA",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "TULUM PEYNİRLİ SALATA",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+    ],
+  },
+  {
+    id: 9,
+    title: "SICAK İÇECEKLER",
+    list: [
+      {
+        name: "AMERICANO",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "CAPPUCCINO",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "DOUBLE ESPRESSO",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "DOUBLE TÜRK KAHVESİ",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "ESPRESSO",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "FİLTRE KAHVE",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "FLAT WHITE",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "KARAMEL MACCHIATO",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "LATTE",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "TÜRK KAHVESİ",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "WHITE MOCHA",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+    ],
+  },
+  {
+    id: 10,
+    title: "SOĞUK İÇECEKLER",
+    list: [
+      {
+        name: "ICE KAHVELER",
+        desc:
+          "Ice Americano, Ice Filtre, Ice Latte, Ice Mocha, Ice Mocha Flat, Ice White Mocha",
+
+        price: "₺",
+      },
+      {
+        name: "Meşrubatlar",
+        desc:
+          "Ayran, Coca Cola, Coca Cola Zero, Fanta, Meyveli Soda, Sade Soda, Sprite",
+        price: "₺",
+      },
+    ],
+  },
+
+  {
+    id: 11,
+    title: "SOFTLAR",
+    list: [
+      {
+        name: "Frozen",
+        desc:
+          "Muz, Şeftali, Yeşil Elma",
+
+        price: "₺",
+      },
+      {
+        name: "Karadut",
+        desc:
+          "İçerik",
+        price: "₺",
+      },
+      {
+        name: "Limonata",
+        desc:
+          "..",
+        price: "₺",
+      },
+
+      {
+        name: "Mİlkshake",
+        desc:
+          "Muz, Şeftali, Yeşil Elma",
+        price: "₺",
+      },
+    ],
+  },
+
 ]

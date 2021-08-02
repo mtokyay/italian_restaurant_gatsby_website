@@ -13,15 +13,13 @@ export default function ContactPage() {
   return (
     <Layout>
       <SEO
-        title="Contact"
-        description="There are many great restaurants in Palermo, 
-        but only one is famous in the entire Apennine peninsula."
+        title="İletişim"
+        description="Balıkesir Gönen'de hizmet eden restronımızın iletişim bilgilerine ulaşabilirsiniz."
       />
       <StyledMainWrapper>
         <PageHeader
-          heading="Contact"
-          subheading="There are many great restaurants in Palermo, 
-          but only one is famous in the entire Apennine peninsula."
+          heading="İletişim"
+          subheading="Balıkesir Gönen'de hizmet eden restronımızın iletişim bilgilerine ulaşabilirsiniz."
         />
         <ContactMain />
       </StyledMainWrapper>

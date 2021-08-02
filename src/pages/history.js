@@ -16,13 +16,13 @@ export default function HistoryPage() {
   return (
     <Layout>
       <SEO
-        title="Our History"
-        description="Since 1975, we build the brand of our restaurant around the idea of authentic traditional Italian food."
+        title="Tarihimiz"
+        description="2021'de faliyete geçtiğimiz Tokyay Bahçe'de ilk günden itibaren kaliteli lezzet anlaşını bozmadan hizmet etmekteyiz."
       />
       <StyledMainWrapper>
         <PageHeader
-          heading="Our History"
-          subheading="Since 1975, we build the brand of our restaurant around the idea of authentic traditional Italian food."
+          heading="Tarihimiz"
+          subheading="2021'de faliyete geçtiğimiz Tokyay Bahçe'de ilk günden itibaren kaliteli lezzet anlaşını bozmadan hizmet etmekteyiz."
         />
         <TopPart />
         <MidPart />
