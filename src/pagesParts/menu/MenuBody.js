@@ -48,7 +48,7 @@ const StyledCardPart = styled.div`
 
 export default function MenuBody() {
   // TABS FUNCTIONALITY
-  const [activeTab, setActiveTab] = useState(1)
+  const [activeTab, setActiveTab] = useState(0)
 
   const changeTab = id => {
     setActiveTab(id)

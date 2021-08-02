@@ -44,7 +44,7 @@ export default function ShortMenu() {
   console.log(menuItemsData)
   return (
     <ul>
-      {menuItemsData[1].list.map(item => (
+      {menuItemsData[0].list.map(item => (
         <StyledItem key={item.name}>
           <StyledItemName>{item.name}</StyledItemName>
           <StyledItemPrice>{item.price}</StyledItemPrice>
