@@ -6,22 +6,28 @@ export const menuItemsData = [
     title: "KAHVALTI",
     list: [
       {
-        name: "Tek Kişilik Kahvaltı",
+        name: "Tek Kİşİlİk Kahvaltı",
         desc:
-          "Vişne Reçeli, Çilek Reçeli, Çikolata, Tereyağ, Bal, Salatalık, Domates, Maydonoz, Haşlanmış Yumurta, Siyah-Yeşil Zeytin, Beyaz Peynir, Taze Kaşar, Mihalliç Peynir, Sigara Böreği, Patates ",
-        price: "₺",
+          "Vişne Reçeli, Çilek Reçeli, Çikolata, Tereyağ, Bal, Salatalık, Domates, Maydonoz, Haşlanmış Yumurta, Siyah-Yeşil Zeytin, Beyaz Peynir, Taze Kaşar, Mihalliç Peynir, Çay (Fincan),Balon Ekmek, Patates ",
+        price: "20.00 ₺",
       },
       {
-        name: "Serpme Kahvalti",
+        name: "Serpme Kahvalti 2 KİŞİLİK",
         desc:
-          "2 KİŞİ",
-        price: "₺",
+          "Çilek Reçeli, Vişne Reçeli, Kayısı Reçeli, Tereyağ, Bal, Salatalık, Domates, Roka, Maydonoz, Yumurta(Sahan/Haşlanmış), Beyaz Peynir, Kaşar Peyniri, Çeçil Peynir, Mihalliç Peynir, Kızartma Peynir, Kuru Kayısı, Kuru Erik, Kuru Üzüm, Pişi, Patates Kızartması, Siyah/Yeşil Zeytin, Kokteyl Zeytin, Muamara, Ilık Biberli Lor Peyniri, Çay.",
+        price: "60.00 ₺",
+      },
+      {
+        name: "Kaşarlı Tost",
+        desc:
+          "",
+        price: "8.00 ₺",
       },
       {
         name: "Tost",
         desc:
-          "İçerik",
-        price: "₺",
+          "Karışık, Sucuklu",
+        price: "10.00 ₺",
       },
     ],
   },
@@ -33,38 +39,39 @@ export const menuItemsData = [
       {
         name: "Çıtır Tavuk",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "24.00 ₺",
       },
-      {
-        name: "Elma DİLİm Patates Kızartması",
-        desc:
-          "İçerik",
-        price: "₺",
-      },
-      {
+     /* {
         name: "İçlİ Köfte",
         desc:
-          "İçerik",
-        price: "₺",
-      },
-      {
-        name: "Kaşarlı Güveç Mantar",
-        desc:
-          "İçerik",
-        price: "₺",
-      },
+          "İçerik: Kıyma, Bulgur, Baharat Çeşitleri (Gluten içerir)",
+        price: "7.50 ₺",
+      },*/
       {
         name: "Keyİf Sepetİ",
         desc:
-          "İçerik",
-        price: "₺",
+          "Sosis, Soğan Halkası, Mozarella Steak, Patates Kızartması, Çıtır Tavuk",
+        price: "22.00 ₺",
       },
+      {
+        name: "Elma DİLİm Patates",
+        desc:
+          "Elma Dilim Patates Kızartması, Baharat, Ketçap, ",
+        price: "15.00 ₺",
+      },
+      {
+        name: "Ev TİPİ Patates",
+        desc:
+          "",
+        price: "14.00 ₺",
+      },
+
       {
         name: "Patates Kızartması",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "13.00 ₺",
       },
 
     ],
@@ -76,80 +83,80 @@ export const menuItemsData = [
       {
         name: "Antrikot",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "48.00 ₺",
       },
       {
         name: "bonfİle",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "48.00 ₺",
       },
       {
-        name: "CİĞER SARMA",
+        name: "CİĞER ŞİŞ",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "32.00 ₺",
       },
       {
         name: "Dallas Steak",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "90.00 ₺",
       },
       {
         name: "Dana Şaşlik",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "44.00 ₺",
       },
       {
         name: "Hellİm - Fistikli (Sucuk)",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "32.00 ₺",
       },
       {
         name: "Karişik Izgara ",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "54.00 ₺",
       },
       {
         name: "Kasap Köfte",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "27.00 ₺",
       },
       {
         name: "Kaşarli Köfte ",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "30.00 ₺",
       },
       {
         name: "Kuzu Külbasti ",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "44.00 ₺",
       },
       {
         name: "Kuzu Pİrzola",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "48.00 ₺",
       },
       {
         name: "T-Bone Steak ",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "90.00 ₺",
       },
       {
         name: "Tavuk Izgara ",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "24.00 ₺",
       },
     ],
   },
@@ -158,40 +165,34 @@ export const menuItemsData = [
     title: "TAVA YEMEKLERİ",
     list: [
       {
-        name: "BARBERKÜ SOSLU TAVUK",
+        name: "BARBEKÜ SOSLU TAVUK",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "27.00 ₺",
       },
       {
         name: "ÇOBAN KAVURMA",
         desc:
-          "İçerik",
-        price: "₺",
-      },
-      {
-        name: "KAŞARLI KÖFTE GÜVEÇ",
-        desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "32.00 ₺",
       },
       {
         name: "KAVURMA GÜVEÇ",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "36.00 ₺",
       },
       {
         name: "KÖRİ SOSLU TAVUK",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "27.00 ₺",
       },
       {
         name: "KREMALI MANTARLI TAVUK ",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "27.00 ₺",
       },
     ],
   },
@@ -202,44 +203,44 @@ export const menuItemsData = [
       {
         name: "Kaşarlı Pİde",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "22.00 ₺",
       },
       {
         name: "Kıymalı Pİde",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "22.00 ₺",
       },
       {
         name: "KİREMİT KÖFTE",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "27.00 ₺",
       },
       {
         name: "KUŞBAŞI PİDE",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "24.00 ₺",
       },
       {
         name: "Lahmacun",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "10.00 ₺",
       },
       {
         name: "MANTAR KRATEN ",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "20.00 ₺",
       },
       {
         name: "MEVLANA PİDE",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "24.00 ₺",
       },
 
     ],
@@ -251,26 +252,26 @@ export const menuItemsData = [
       {
         name: "FettucİNİ alfredo",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "28.00 ₺",
       },
       {
         name: "LİNGUİNE PESTO",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "22.00 ₺",
       },
       {
         name: "PENNE ARABİATA",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "23.00 ₺",
       },
       {
         name: "SPAGETTİ BOLOGNESE",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "28.00 ₺",
       },
     ],
   },
@@ -281,33 +282,28 @@ export const menuItemsData = [
     list: [
       {
         name: "Cheese Burger",
-        desc:"İçerik",
-        price: "₺",
+        desc:"",
+        price: "26.00 ₺",
       },
       {
         name: "Çocuk Burger",
-        desc:"İçerik",
-        price: "₺",
+        desc:"",
+        price: "18.00 ₺",
       },
       {
         name: "Hamburger",
-        desc:"İçerik",
-        price: "₺",
+        desc:"",
+        price: "25.00 ₺",
       },
       {
         name: "Lokum Burger",
-        desc:"İçerik",
-        price: "₺",
-      },
-      {
-        name: "Normal Burger",
-        desc:"İçerik",
-        price: "₺",
+        desc:"",
+        price: "30.00 ₺",
       },
       {
         name: "Tokyay Burger",
-        desc:"İçerik",
-        price: "₺",
+        desc:"",
+        price: "30.00 ₺",
       },
     ],
   },
@@ -316,47 +312,53 @@ export const menuItemsData = [
     title: "TATLILAR",
     list: [
       {
+        name: "ÇİLEKLİ MAGNOLİA",
+        desc:
+          "",
+        price: "14.00 ₺",
+      },
+      {
         name: "DEVİL'S PASTA",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "14.00 ₺",
       },
       {
         name: "FISTIK RÜYASI",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "14.00 ₺",
       },
       {
         name: "FRAMBUAZ CHEESECAKE",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "13.00 ₺",
       },
       {
-        name: "İSPANYOL CHEESECAKE",
+        name: "SAN SEBASTIAN CHEESECAKE",
         desc:
           "İçerik",
-        price: "₺",
+        price: "17.00 ₺",
       },
       {
         name: "KÜNEFE",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "22.00 ₺",
       },
       {
         name: "SÜTLAÇ",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "10.00 ₺",
       },
 
       {
         name: "TİRAMİSU",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "13.00 ₺",
       },
     ],
   },
@@ -367,38 +369,32 @@ export const menuItemsData = [
       {
         name: "AKDENİZ SALATASI",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "18.00 ₺",
       },
       {
         name: "ÇOBAN SALATA",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "18.00 ₺",
       },
       {
         name: "MEVSİM SALATA",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "18.00 ₺",
       },
       {
         name: "ROKA SALATASI",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "18.00 ₺",
       },
       {
         name: "TAVUK SALATA",
         desc:
-          "İçerik",
-        price: "₺",
-      },
-      {
-        name: "TULUM PEYNİRLİ SALATA",
-        desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "24.00 ₺",
       },
     ],
   },
@@ -409,122 +405,187 @@ export const menuItemsData = [
       {
         name: "AMERICANO",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "10.00 ₺",
       },
       {
         name: "CAPPUCCINO",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "12.00 ₺",
       },
       {
         name: "DOUBLE ESPRESSO",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "12.00 ₺",
       },
       {
         name: "DOUBLE TÜRK KAHVESİ",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "12.00 ₺",
       },
       {
         name: "ESPRESSO",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "8.00 ₺",
       },
       {
         name: "FİLTRE KAHVE",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "9.00 ₺",
       },
       {
         name: "FLAT WHITE",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "15.00 ₺",
       },
       {
         name: "KARAMEL MACCHIATO",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "15.00 ₺",
       },
       {
         name: "LATTE",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "12.00 ₺",
       },
       {
         name: "TÜRK KAHVESİ",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "8.00 ₺",
       },
       {
         name: "WHITE MOCHA",
         desc:
-          "İçerik",
-        price: "₺",
+          "",
+        price: "15.00 ₺",
       },
     ],
   },
   {
     id: 10,
-    title: "SOĞUK İÇECEKLER",
+    title: "Soğuk İçecekler",
     list: [
       {
-        name: "ICE KAHVELER",
+        name: "AYRAN",
         desc:
-          "Ice Americano, Ice Filtre, Ice Latte, Ice Mocha, Ice Mocha Flat, Ice White Mocha",
-
-        price: "₺",
+          "",
+        price: "4.00 ₺",
       },
       {
-        name: "Meşrubatlar",
+        name: "COCA COLA",
         desc:
-          "Ayran, Coca Cola, Coca Cola Zero, Fanta, Meyveli Soda, Sade Soda, Sprite",
-        price: "₺",
+          "Original, Zero",
+        price: "6.00 ₺",
+      },
+      {
+        name: "fanta",
+        desc:
+          "",
+        price: "6.00 ₺",
+      },
+      {
+        name: "FRUTTI EXTRA",
+        desc:
+          "Armut, Mandalina, Orman Meyveli, Limon",
+        price: "5.00 ₺",
+      },
+      {
+        name: "Gazoz",
+        desc:
+          "Portakallı, Sade",
+        price: "4.00 ₺",
+      },
+      {
+        name: "Lİmonata",
+        desc:
+          "",
+        price: "10.00 ₺",
+      },
+      {
+        name: "Meyveli Soda",
+        desc:
+          "Kivi, Elma, Karpuz Çilek, Limon, Nar, Şeftali",
+        price: "5.00 ₺",
+      },
+      {
+        name: "Soda",
+        desc:
+          "",
+        price: "4.00 ₺",
+      },
+      {
+        name: "Sprite",
+        desc:
+          "",
+        price: "6.00 ₺",
+      },
+      {
+        name: "Su",
+        desc:
+          "",
+        price: "2.50 ₺",
+      },
+      {
+        name: "Milkshake",
+        desc:
+          "Muz, Şeftali, Yeşil Elma",
+        price: "15.00 ₺",
       },
     ],
   },
-
   {
     id: 11,
-    title: "SOFTLAR",
+    title: "SOĞUK kahveler",
     list: [
       {
-        name: "Frozen",
+        name: "ICE AMERICANO",
         desc:
-          "Muz, Şeftali, Yeşil Elma",
+          "",
+        price: "12.00 ₺",
+      },
+      {
+        name: "ICE FİLTRE",
+        desc:
+          "",
+        price: "12.00 ₺",
+      },
+      {
+        name: "ICE FLAT WHITE",
+        desc:
+          "",
+        price: "17.00 ₺",
+      },
+      {
+        name: "ICE LATTE",
+        desc:
+          "",
+        price: "15.00 ₺",
+      },
+      {
+        name: "ICE MOCHA",
+        desc:
+          "",
+        price: "17.00 ₺",
+      },
 
-        price: "₺",
-      },
       {
-        name: "Karadut",
+        name: "ICE WHITE MOCHA",
         desc:
-          "İçerik",
-        price: "₺",
-      },
-      {
-        name: "Limonata",
-        desc:
-          "..",
-        price: "₺",
-      },
-
-      {
-        name: "Mİlkshake",
-        desc:
-          "Muz, Şeftali, Yeşil Elma",
-        price: "₺",
+          "",
+        price: "17.00 ₺",
       },
     ],
   },
+
+
 
 ]

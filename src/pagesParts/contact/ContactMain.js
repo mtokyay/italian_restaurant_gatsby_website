@@ -135,7 +135,7 @@ export default function ContactMain() {
             <Email />
           </StyledInfoDiv>
           <StyledFindDiv>
-            <StyledHeading>How to find us</StyledHeading>
+            <StyledHeading>Daha iyi hizmet sunmayı amaçlıyoruz.</StyledHeading>
             <MainParagraph>
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Praesentium, quo molestiae. Unde facere cum eius fugiat aliquid

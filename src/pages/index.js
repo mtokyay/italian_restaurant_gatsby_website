@@ -22,7 +22,7 @@ export default function Home() {
         <HistorySection />
         <ChefSection />
         <WineSection />
-        <ReservationSection />
+
         <ContactSection />
       </main>
     </Layout>

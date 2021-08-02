@@ -10,7 +10,7 @@ export const navItemsData = [
   },
 
   {
-    path: "/contact",
+    path: "/iletisim",
     name: "İletişim",
   },
 ]
