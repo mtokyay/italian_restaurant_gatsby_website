@@ -8,7 +8,7 @@ export const menuItemsData = [
       {
         name: "Tek Kişilik Kahvaltı",
         desc:
-          "Bal, Vişne Reçeli, Çilek Reçeli, Tereyağ, Beyaz Peynir,",
+          "Vişne Reçeli, Çilek Reçeli, Çikolata, Tereyağ, Bal, Salatalık, Domates, Maydonoz, Haşlanmış Yumurta, Siyah-Yeşil Zeytin, Beyaz Peynir, Taze Kaşar, Mihalliç Peynir, Sigara Böreği, Patates ",
         price: "₺",
       },
       {
