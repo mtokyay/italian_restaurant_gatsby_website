@@ -126,25 +126,18 @@ export default function HistorySection() {
         <StyledGrid>
           <StyledHeaderWrapper>
             <StyledHeader ref={headerRef}>
-              <ModernHeading>History</ModernHeading>
+              <ModernHeading>Tokyay Bahçe</ModernHeading>
               <OldSchoolHeading>
-                Since 1975, we build the brand of our restaurant around the idea
-                of authentic traditional Italian food from the best quality
-                products.
+                Tokyay Bahçe
               </OldSchoolHeading>
             </StyledHeader>
           </StyledHeaderWrapper>
           <StyledContentWrapper>
             <StyledContent ref={contentRef}>
               <MainParagraph>
-                Our restaurant was established in 1975. Its founder and first
-                chef was Pietro Savastano. Eccentric men with passion for the
-                italian food and italian way of life. His goal was to create a
-                family place with original, traditional food and an informal
-                atmosphere. Years have passed, but we still value the same
-                things and we are proud of it.
+                Tokyay Bahçe
               </MainParagraph>
-              <ButtonGhost to="/history">Learn more</ButtonGhost>
+              <ButtonGhost to="/history">Daha Fazla</ButtonGhost>
             </StyledContent>
           </StyledContentWrapper>
           <StyledImageWrapper>

@@ -153,22 +153,16 @@ export default function AboutSection() {
             <StyledHeader ref={headerRef}>
               <ModernHeading>Hakkımızda</ModernHeading>
               <OldSchoolHeading>
-                We believe that food brings people together, so we care for
-                every detail, to make your visit here unforgettable.
+                Doğa ile iç içe, lezzetli yemekler ve çocuklarınızın eğleneceği oyun alanlarıyla keyifli vakit geçirin.
               </OldSchoolHeading>
             </StyledHeader>
           </StyledHeaderWrapper>
           <StyledContentWrapper>
             <StyledContent ref={contentRef}>
               <MainParagraph>
-                We are famous in Sicilia, cause we cook our dishes from the
-                freshest ingredients in traditional way. Local vegetables, fresh
-                fish and own winery. We specialize in homemade classic Italian
-                pizza, pasta, salads, soups and much more. Don't forget to try
-                our Lasagna. We provide excellent taste, great service and warm
-                atmosphere.
+                Balıkesir Gönen'de hizmete başladık. Et- Pide - Kahvaltı - Tatlı - Kahve lezzetleriyle ailenizle keyifle yemek yiyebilirsiniz.
               </MainParagraph>
-              <ButtonGhost to="/about">Learn more</ButtonGhost>
+              <ButtonGhost to="/about">Hakkımızda</ButtonGhost>
             </StyledContent>
           </StyledContentWrapper>
           <StyledImageWrapper>
