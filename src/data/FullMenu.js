@@ -29,6 +29,25 @@ export const menuItemsData = [
           "Karışık, Sucuklu",
         price: "10.00 ₺",
       },
+      {
+        name: "Kaşarlı Yumurta",
+        desc:
+          "",
+        price: "11.00 ₺",
+      },
+      {
+        name: "Menemen",
+        desc:
+          "",
+        price: "11.00 ₺",
+      },
+
+      {
+        name: "Omlet",
+        desc:
+          "",
+        price: "9.00 ₺",
+      },
     ],
   },
 
@@ -201,6 +220,12 @@ export const menuItemsData = [
     title: "PİDELER",
     list: [
       {
+        name: "Kaşarlı Kiremİt Köfte",
+        desc:
+          "",
+        price: "30.00 ₺",
+      },
+      {
         name: "Kaşarlı Pİde",
         desc:
           "",
@@ -213,16 +238,22 @@ export const menuItemsData = [
         price: "22.00 ₺",
       },
       {
-        name: "KİREMİT KÖFTE",
+        name: "MEVLANA PİDE",
         desc:
           "",
-        price: "27.00 ₺",
+        price: "24.00 ₺",
       },
       {
         name: "KUŞBAŞI PİDE",
         desc:
           "",
         price: "24.00 ₺",
+      },
+      {
+        name: "KİREMİT KÖFTE",
+        desc:
+          "",
+        price: "27.00 ₺",
       },
       {
         name: "Lahmacun",
@@ -236,18 +267,12 @@ export const menuItemsData = [
           "",
         price: "20.00 ₺",
       },
-      {
-        name: "MEVLANA PİDE",
-        desc:
-          "",
-        price: "24.00 ₺",
-      },
 
     ],
   },
   {
     id: 5,
-    title: "Makarnalar",
+    title: "MAKARNALAR",
     list: [
       {
         name: "FettucİNİ alfredo",
@@ -278,7 +303,7 @@ export const menuItemsData = [
 
   {
     id: 6,
-    title: "Hamburgerler",
+    title: "HAMBURGERLER",
     list: [
       {
         name: "Cheese Burger",
@@ -318,7 +343,7 @@ export const menuItemsData = [
         price: "14.00 ₺",
       },
       {
-        name: "DEVİL'S PASTA",
+        name: "DEVIL'S PASTA",
         desc:
           "",
         price: "14.00 ₺",
@@ -395,7 +420,13 @@ export const menuItemsData = [
         desc:
           "",
         price: "24.00 ₺",
-      },
+      },/*
+      {
+        name: "TULUM PEYNİRLİ SALATA",
+        desc:
+          "",
+        price: "22.00 ₺",
+      },*/
     ],
   },
   {
@@ -409,19 +440,13 @@ export const menuItemsData = [
         price: "10.00 ₺",
       },
       {
+        name: "CAFE MOCHA",
+        desc:
+          "",
+        price: "15.00 ₺",
+      },
+      {
         name: "CAPPUCCINO",
-        desc:
-          "",
-        price: "12.00 ₺",
-      },
-      {
-        name: "DOUBLE ESPRESSO",
-        desc:
-          "",
-        price: "12.00 ₺",
-      },
-      {
-        name: "DOUBLE TÜRK KAHVESİ",
         desc:
           "",
         price: "12.00 ₺",
@@ -431,6 +456,24 @@ export const menuItemsData = [
         desc:
           "",
         price: "8.00 ₺",
+      },
+      {
+        name: "DOUBLE ESPRESSO",
+        desc:
+          "",
+        price: "12.00 ₺",
+      },
+      {
+        name: "TÜRK KAHVESİ",
+        desc:
+          "",
+        price: "8.00 ₺",
+      },
+      {
+        name: "DOUBLE TÜRK KAHVESİ",
+        desc:
+          "",
+        price: "12.00 ₺",
       },
       {
         name: "FİLTRE KAHVE",
@@ -457,12 +500,6 @@ export const menuItemsData = [
         price: "12.00 ₺",
       },
       {
-        name: "TÜRK KAHVESİ",
-        desc:
-          "",
-        price: "8.00 ₺",
-      },
-      {
         name: "WHITE MOCHA",
         desc:
           "",
@@ -472,7 +509,7 @@ export const menuItemsData = [
   },
   {
     id: 10,
-    title: "Soğuk İçecekler",
+    title: "SOĞUK İÇECEKLER",
     list: [
       {
         name: "AYRAN",
@@ -484,6 +521,12 @@ export const menuItemsData = [
         name: "COCA COLA",
         desc:
           "Original, Zero",
+        price: "6.00 ₺",
+      },
+      {
+        name: "Sprite",
+        desc:
+          "",
         price: "6.00 ₺",
       },
       {
@@ -505,10 +548,10 @@ export const menuItemsData = [
         price: "4.00 ₺",
       },
       {
-        name: "Lİmonata",
+        name: "Lİmonata (Şİşe)",
         desc:
           "",
-        price: "10.00 ₺",
+        price: "4.00 ₺",
       },
       {
         name: "Meyveli Soda",
@@ -519,14 +562,8 @@ export const menuItemsData = [
       {
         name: "Soda",
         desc:
-          "",
+          "Sade",
         price: "4.00 ₺",
-      },
-      {
-        name: "Sprite",
-        desc:
-          "",
-        price: "6.00 ₺",
       },
       {
         name: "Su",
@@ -544,7 +581,7 @@ export const menuItemsData = [
   },
   {
     id: 11,
-    title: "SOĞUK kahveler",
+    title: "SOĞUK KAHVELER",
     list: [
       {
         name: "ICE AMERICANO",
