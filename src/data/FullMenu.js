@@ -100,7 +100,7 @@ export const menuItemsData = [
     title: "IZGARALAR",
     list: [
       {
-        name: "Antrikot",
+        name: "Antrİkot",
         desc:
           "",
         price: "48.00 ₺",

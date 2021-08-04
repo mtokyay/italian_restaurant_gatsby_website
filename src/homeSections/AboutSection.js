@@ -125,7 +125,7 @@ const StyledContent = styled.div`
 export default function AboutSection() {
   const data = useStaticQuery(graphql`
     query {
-      file(relativePath: { eq: "index/mondello-cooks-at-work.jpg" }) {
+      file(relativePath: { eq: "index/izgara-tokyay.jpg" }) {
         childImageSharp {
           fluid(maxHeight: 660, quality: 100) {
             ...GatsbyImageSharpFluid_withWebp

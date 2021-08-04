@@ -103,7 +103,7 @@ export default function ContactMain() {
     query {
       image: file(
         relativePath: {
-          eq: "subpages/contact/mondello-restaurant-outside-tables.jpg"
+          eq: "subpages/contact/tables-chairs.jpg"
         }
       ) {
         childImageSharp {
@@ -126,7 +126,7 @@ export default function ContactMain() {
             />
           </StyledImgDiv>
           <StyledInfoDiv>
-            <StyledHeading>Contact details</StyledHeading>
+            <StyledHeading>İLETİŞİM BİLGİLERİ</StyledHeading>
             <StyledAddressDiv>
               <Address />
             </StyledAddressDiv>
@@ -135,12 +135,9 @@ export default function ContactMain() {
             <Email />
           </StyledInfoDiv>
           <StyledFindDiv>
-            <StyledHeading>Daha iyi hizmet sunmayı amaçlıyoruz.</StyledHeading>
+            <StyledHeading>DAHA İYİ HİZMET SUNMAYI AMAÇLIYORUZ.</StyledHeading>
             <MainParagraph>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Praesentium, quo molestiae. Unde facere cum eius fugiat aliquid
-              doloribus accusamus, error, ad reiciendis quasore officia animi
-              dignissimos cupiditate itaque dicta enim.
+              ..
             </MainParagraph>
           </StyledFindDiv>
         </StyledMainGrid>

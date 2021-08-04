@@ -11,7 +11,7 @@ export const footerLinksData = [
 
 
   {
-    path: "/contact",
+    path: "/iletisim",
     name: "İletişim",
   },
 

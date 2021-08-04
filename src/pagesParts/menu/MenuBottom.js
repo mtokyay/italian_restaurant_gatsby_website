@@ -33,11 +33,10 @@ export default function MenuBottom() {
     <StyledMainWrapper>
       <StyledInnerWrapper>
         <OldSchoolHeading whiteColor>
-          We also offer kid's portion and home delivery. Book a table online and
-          check secret menu items in our restaurant.
+          Detaylı Bilgi Almak İçin İletişime Geçebilirsiniz
         </OldSchoolHeading>
-        <ButtonGhost to="/reservation" align="center">
-          Rezervasyon
+        <ButtonGhost to="/iletisim" align="center">
+          İletişim İçin
         </ButtonGhost>
       </StyledInnerWrapper>
     </StyledMainWrapper>

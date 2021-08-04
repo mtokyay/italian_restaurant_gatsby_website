@@ -1,7 +1,7 @@
 import React from "react"
 import styled from "styled-components"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
-import logoImage from "../../img/branding/tokyaybahce.svg"
+import logoImage from "../../img/branding/tokyaybahce.png"
 import { globalHistory as history } from "@reach/router"
 import { animateScroll as scroll } from "react-scroll"
 

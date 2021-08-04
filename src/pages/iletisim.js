@@ -18,7 +18,7 @@ export default function ContactPage() {
       />
       <StyledMainWrapper>
         <PageHeader
-          heading="İletişim"
+          heading="İLETİŞİM"
           subheading="Balıkesir Gönen'de hizmet eden restronımızın iletişim bilgilerine ulaşabilirsiniz."
         />
         <ContactMain />
