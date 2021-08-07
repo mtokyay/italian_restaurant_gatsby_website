@@ -137,7 +137,7 @@ export default function ContactMain() {
           <StyledFindDiv>
             <StyledHeading>DAHA İYİ HİZMET SUNMAYI AMAÇLIYORUZ.</StyledHeading>
             <MainParagraph>
-              ..
+              Dilek, istek veya önerilerinizi 0545 217 5117 nolu WhatsApp hattımızdan iletebilirsiniz.
             </MainParagraph>
           </StyledFindDiv>
         </StyledMainGrid>

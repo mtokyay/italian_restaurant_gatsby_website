@@ -153,14 +153,14 @@ export default function AboutSection() {
             <StyledHeader ref={headerRef}>
               <ModernHeading>Hakkımızda</ModernHeading>
               <OldSchoolHeading>
-                Doğa ile iç içe, lezzetli yemekler ve çocuklarınızın eğleneceği oyun alanlarıyla keyifli vakit geçirin.
+                Doğa ile iç içe, lezzetli yemekler ve çocuklarınızın eğleneceği oyun alanlarıyla ailecek keyifli vakit geçirin.
               </OldSchoolHeading>
             </StyledHeader>
           </StyledHeaderWrapper>
           <StyledContentWrapper>
             <StyledContent ref={contentRef}>
               <MainParagraph>
-                Balıkesir Gönen'de hizmete başladık. Et- Pide - Kahvaltı - Tatlı - Kahve lezzetleriyle ailenizle keyifle yemek yiyebilirsiniz.
+                Balıkesir ilinin Gönen ilçesinde hizmet vermekte olan Tokyay Bahçe'de Et - Pide - Kahvaltı - Tatlı - Kahve lezzetleriyle ailenizle keyifle yemek yiyebilirsiniz.
               </MainParagraph>
               <ButtonGhost to="/about">Hakkımızda</ButtonGhost>
             </StyledContent>

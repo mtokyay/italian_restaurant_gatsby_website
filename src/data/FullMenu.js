@@ -35,6 +35,19 @@ export const menuItemsData = [
           "",
         price: "11.00 ₺",
       },
+
+      {
+        name: "Sucuklu Yumurta",
+        desc:
+          "",
+        price: "13.00 ₺",
+      },
+      {
+        name: "Pastirmali Yumurta",
+        desc:
+          "",
+        price: "15.00 ₺",
+      },
       {
         name: "Menemen",
         desc:
@@ -177,6 +190,25 @@ export const menuItemsData = [
           "Kemikli Tavuk Pirzola",
         price: "24.00 ₺",
       },
+
+      {
+        name: "Tavuk Izgara ",
+        desc:
+          "Kemikli Tavuk Pirzola",
+        price: "24.00 ₺",
+      },
+      {
+        name: "Sucuk Izgara ",
+        desc:
+          "",
+        price: "30.00 ₺",
+      },
+      {
+        name: "Tek Izgaralar ",
+        desc:
+          "Ciğer Şiş (9.00 ₺) --- Kasap Köfte (6.00 ₺) --- Kaşarlı Köfte (6.00 ₺) --- Piliç Şiş (9.00 ₺) --- Pirzola (16.00 ₺) --- Sucuk (8.00 ₺)",
+        price: "",
+      },
     ],
   },
   {
@@ -308,28 +340,34 @@ export const menuItemsData = [
       {
         name: "Cheese Burger",
         desc:"Cheddar, Kıvırcık Marul, Domates, Salatalık Turşusu, Karamelize Soğan, Özel Ballı Hardallı Sos",
-        price: "26.00 ₺",
+        price: "27.00 ₺",
       },
       {
         name: "Çocuk Burger",
         desc:"Kıvırcık Marul, Domates, Salatalık Turşusu",
-        price: "18.00 ₺",
+        price: "20.00 ₺",
       },
       {
         name: "Hamburger",
         desc:"Kıvırcık Marul, Domates, Salatalık Turşusu, Karamelize Soğan",
-        price: "25.00 ₺",
+        price: "26.00 ₺",
       },
       {
         name: "Lokum Burger",
         desc:"Kıvırcık Marul, Domates, Salatalık Turşusu, Karamelize Soğan, Bonfile Eti, Özel Ballı Hardallı Sos",
-        price: "30.00 ₺",
+        price: "32.00 ₺",
       },
       {
         name: "Tokyay Burger",
         desc:"Kıvırcık Marul, Domates, Salatalık Turşusu, Karamelize Soğan, Cheddar, Dana Füme, Özel Ballı Hardallı Sos",
-        price: "30.00 ₺",
+        price: "32.00 ₺",
       },
+      {
+        name: "Cheddar Peynİrİ",
+        desc:"Tüm hamburger ürünlerinde ekstra olarak isteyebilirsiniz.",
+        price: "+2.00 ₺",
+      },
+
     ],
   },
   {
@@ -363,7 +401,7 @@ export const menuItemsData = [
       {
         name: "SAN SEBASTIAN CHEESECAKE",
         desc:
-          "İçerik",
+          "",
         price: "17.00 ₺",
       },
       {
@@ -524,6 +562,12 @@ export const menuItemsData = [
         price: "13.00 ₺",
       },
       {
+        name: "Milkshake",
+        desc:
+          "Muz, Şeftali, Yeşil Elma",
+        price: "15.00 ₺",
+      },
+      {
         name: "AYRAN",
         desc:
           "",
@@ -566,7 +610,7 @@ export const menuItemsData = [
         price: "4.00 ₺",
       },
       {
-        name: "Meyveli Soda",
+        name: "Meyvelİ Soda",
         desc:
           "Kivi, Elma, Karpuz Çilek, Limon, Nar, Şeftali",
         price: "5.00 ₺",
@@ -582,12 +626,6 @@ export const menuItemsData = [
         desc:
           "",
         price: "2.50 ₺",
-      },
-      {
-        name: "Milkshake",
-        desc:
-          "Muz, Şeftali, Yeşil Elma",
-        price: "15.00 ₺",
       },
     ],
   },

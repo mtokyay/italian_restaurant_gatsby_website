@@ -14,12 +14,12 @@ export default function ContactPage() {
     <Layout>
       <SEO
         title="İletişim"
-        description="Balıkesir Gönen'de hizmet eden restronımızın iletişim bilgilerine ulaşabilirsiniz."
+        description="Balıkesir ilinin Gönen ilçesinde hizmet veren restorantımızın iletişim bilgilerine ulaşabilirsiniz."
       />
       <StyledMainWrapper>
         <PageHeader
           heading="İLETİŞİM"
-          subheading="Balıkesir Gönen'de hizmet eden restronımızın iletişim bilgilerine ulaşabilirsiniz."
+          subheading="Balıkesir ilinin Gönen ilçesinde hizmet veren restorantımızın iletişim bilgilerine ulaşabilirsiniz."
         />
         <ContactMain />
       </StyledMainWrapper>
