@@ -54,7 +54,6 @@ export const menuItemsData = [
           "Domates, Biber, Soğan, Salça",
         price: "11.00 ₺",
       },
-
       {
         name: "Omlet",
         desc:
@@ -63,7 +62,6 @@ export const menuItemsData = [
       },
     ],
   },
-
   {
     id: 1,
     title: "ARA SICAKLAR",
@@ -98,14 +96,12 @@ export const menuItemsData = [
           "Kajun Baharatı",
         price: "14.00 ₺",
       },
-
       {
         name: "Patates Kızartması",
         desc:
           "Kajun Baharatı",
         price: "13.00 ₺",
       },
-
     ],
   },
   {
@@ -115,55 +111,55 @@ export const menuItemsData = [
       {
         name: "Antrİkot",
         desc:
-          "",
+          "1 Adet",
         price: "48.00 ₺",
       },
       {
         name: "bonfİle",
         desc:
-          "",
+          "1 Adet",
         price: "48.00 ₺",
       },
       {
         name: "CİĞER ŞİŞ",
         desc:
-          "",
+          "5 Adet",
         price: "32.00 ₺",
       },
       {
         name: "Dallas Steak",
         desc:
-          "",
+          "1 Adet",
         price: "90.00 ₺",
       },
       {
         name: "Dana Şaşlik",
         desc:
-          "",
+          "2 Adet",
         price: "44.00 ₺",
       },
       {
         name: "Hellİm - Fistikli (Sucuk)",
         desc:
-          "",
+          "2 Adet",
         price: "32.00 ₺",
       },
       {
         name: "Karişik Izgara ",
         desc:
-          "Kaşarlı Köfte, Kasap Köfte, Tavuk, Antrikot ",
+          "",
         price: "54.00 ₺",
       },
       {
         name: "Kasap Köfte",
         desc:
-          "",
+          "5 Adet (200 Gr)",
         price: "27.00 ₺",
       },
       {
         name: "Kaşarli Köfte ",
         desc:
-          "",
+          "4 Adet (200 Gr)",
         price: "30.00 ₺",
       },
       {
@@ -175,39 +171,26 @@ export const menuItemsData = [
       {
         name: "Kuzu Pİrzola",
         desc:
-          "",
+          "4 Adet",
         price: "48.00 ₺",
       },
       {
         name: "T-Bone Steak ",
         desc:
-          "",
+          "1 Adet",
         price: "90.00 ₺",
       },
       {
         name: "Tavuk Izgara ",
         desc:
-          "Kemikli Tavuk Pirzola",
-        price: "24.00 ₺",
-      },
-
-      {
-        name: "Tavuk Izgara ",
-        desc:
-          "Kemikli Tavuk Pirzola",
+          "",
         price: "24.00 ₺",
       },
       {
         name: "Sucuk Izgara ",
         desc:
-          "",
+          "5 Adet",
         price: "30.00 ₺",
-      },
-      {
-        name: "Tek Izgaralar ",
-        desc:
-          "Ciğer Şiş (9.00 ₺) --- Kasap Köfte (6.00 ₺) --- Kaşarlı Köfte (6.00 ₺) --- Piliç Şiş (9.00 ₺) --- Pirzola (16.00 ₺) --- Sucuk (8.00 ₺)",
-        price: "",
       },
     ],
   },
@@ -252,7 +235,7 @@ export const menuItemsData = [
     title: "PİDELER",
     list: [
       {
-        name: "Kaşarlı Kiremİt Köfte",
+        name: "Kaşarlı Kİremİt Köfte",
         desc:
           "",
         price: "30.00 ₺",
