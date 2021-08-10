@@ -6,6 +6,18 @@ export const menuItemsData = [
     title: "KAHVALTI",
     list: [
       {
+        name: "Kaşarlı Tost",
+        desc:
+          "",
+        price: "8.00 ₺",
+      },
+      {
+        name: "Karışık/Sucuklu Tost",
+        desc:
+          "",
+        price: "10.00 ₺",
+      },
+      {
         name: "Tek Kİşİlİk Kahvaltı",
         desc:
           "Vişne Reçeli, Çilek Reçeli, Çikolata, Tereyağ, Bal, Salatalık, Domates, Maydonoz, Haşlanmış Yumurta, Siyah-Yeşil Zeytin, Beyaz Peynir,Taze Kaşar Peyniri, Mihalliç Peynir, Çay (Fincan), Balon Ekmek, Patates ",
@@ -18,16 +30,16 @@ export const menuItemsData = [
         price: "60.00 ₺",
       },
       {
-        name: "Kaşarlı Tost",
+        name: "Sahanda Yumurta",
         desc:
           "",
-        price: "8.00 ₺",
+        price: "7.00 ₺",
       },
       {
-        name: "Tost",
+        name: "Omlet",
         desc:
-          "Karışık, Sucuklu",
-        price: "10.00 ₺",
+          "",
+        price: "9.00 ₺",
       },
       {
         name: "Kaşarlı Yumurta",
@@ -53,12 +65,6 @@ export const menuItemsData = [
         desc:
           "Domates, Biber, Soğan, Salça",
         price: "11.00 ₺",
-      },
-      {
-        name: "Omlet",
-        desc:
-          "",
-        price: "9.00 ₺",
       },
     ],
   },
@@ -235,10 +241,10 @@ export const menuItemsData = [
     title: "PİDELER",
     list: [
       {
-        name: "Kaşarlı Kİremİt Köfte",
+        name: "Lahmacun",
         desc:
           "",
-        price: "30.00 ₺",
+        price: "10.00 ₺",
       },
       {
         name: "Kaşarlı Pİde",
@@ -269,12 +275,11 @@ export const menuItemsData = [
         desc:
           "",
         price: "27.00 ₺",
-      },
-      {
-        name: "Lahmacun",
+      },{
+        name: "Kaşarlı Kİremİt Köfte",
         desc:
           "",
-        price: "10.00 ₺",
+        price: "30.00 ₺",
       },
       {
         name: "MANTAR GRATEN ",
@@ -322,27 +327,27 @@ export const menuItemsData = [
     list: [
       {
         name: "Cheese Burger",
-        desc:"Cheddar, Kıvırcık Marul, Domates, Salatalık Turşusu, Karamelize Soğan, Özel Ballı Hardallı Sos",
+        desc:"Cheddar, Kıvırcık Marul, Domates, Salatalık Turşusu, Karamelize Soğan, Özel Ballı Hardallı Sos, Patates Kızartması",
         price: "27.00 ₺",
       },
       {
         name: "Çocuk Burger",
-        desc:"Kıvırcık Marul, Domates, Salatalık Turşusu",
+        desc:"Kıvırcık Marul, Domates, Salatalık Turşusu, Patates Kızartması",
         price: "20.00 ₺",
       },
       {
         name: "Hamburger",
-        desc:"Kıvırcık Marul, Domates, Salatalık Turşusu, Karamelize Soğan",
+        desc:"Kıvırcık Marul, Domates, Salatalık Turşusu, Karamelize Soğan, Patates Kızartması",
         price: "26.00 ₺",
       },
       {
         name: "Lokum Burger",
-        desc:"Kıvırcık Marul, Domates, Salatalık Turşusu, Karamelize Soğan, Bonfile Eti, Özel Ballı Hardallı Sos",
+        desc:"Kıvırcık Marul, Domates, Salatalık Turşusu, Karamelize Soğan, Bonfile Eti, Özel Ballı Hardallı Sos, Patates Kızartması",
         price: "32.00 ₺",
       },
       {
         name: "Tokyay Burger",
-        desc:"Kıvırcık Marul, Domates, Salatalık Turşusu, Karamelize Soğan, Cheddar, Dana Füme, Özel Ballı Hardallı Sos",
+        desc:"Kıvırcık Marul, Domates, Salatalık Turşusu, Karamelize Soğan, Cheddar, Dana Füme, Özel Ballı Hardallı Sos, Patates Kızartması",
         price: "32.00 ₺",
       },
       {
@@ -455,6 +460,30 @@ export const menuItemsData = [
     title: "SICAK İÇECEKLER",
     list: [
       {
+        name: "ÇAY",
+        desc:
+          "",
+        price: "3.00 ₺",
+      },
+      {
+        name: "FİLTRE KAHVE",
+        desc:
+          "",
+        price: "9.00 ₺",
+      },
+      {
+        name: "TÜRK KAHVESİ",
+        desc:
+          "",
+        price: "8.00 ₺",
+      },
+      {
+        name: "DOUBLE TÜRK KAHVESİ",
+        desc:
+          "",
+        price: "12.00 ₺",
+      },
+      {
         name: "AMERICANO",
         desc:
           "",
@@ -483,30 +512,6 @@ export const menuItemsData = [
         desc:
           "",
         price: "12.00 ₺",
-      },
-      {
-        name: "TÜRK KAHVESİ",
-        desc:
-          "",
-        price: "8.00 ₺",
-      },
-      {
-        name: "DOUBLE TÜRK KAHVESİ",
-        desc:
-          "",
-        price: "12.00 ₺",
-      },
-      {
-        name: "ÇAY",
-        desc:
-          "",
-        price: "3.00 ₺",
-      },
-      {
-        name: "FİLTRE KAHVE",
-        desc:
-          "",
-        price: "9.00 ₺",
       },
       {
         name: "FLAT WHITE",
@@ -539,16 +544,10 @@ export const menuItemsData = [
     title: "SOĞUK İÇECEKLER",
     list: [
       {
-        name: "Berry Hibiscus Tea",
+        name: "Su",
         desc:
-          "Hibiscus Çayı, Çilek, Üzüm, Nane",
-        price: "13.00 ₺",
-      },
-      {
-        name: "Milkshake",
-        desc:
-          "Muz, Şeftali, Yeşil Elma",
-        price: "15.00 ₺",
+          "",
+        price: "2.50 ₺",
       },
       {
         name: "AYRAN",
@@ -575,12 +574,6 @@ export const menuItemsData = [
         price: "6.00 ₺",
       },
       {
-        name: "FRUTTI EXTRA",
-        desc:
-          "Armut, Mandalina, Orman Meyveli, Limon",
-        price: "5.00 ₺",
-      },
-      {
         name: "Gazoz",
         desc:
           "Portakallı, Sade",
@@ -591,6 +584,12 @@ export const menuItemsData = [
         desc:
           "",
         price: "4.00 ₺",
+      },
+      {
+        name: "FRUTTI EXTRA",
+        desc:
+          "Armut, Mandalina, Orman Meyveli, Limon",
+        price: "5.00 ₺",
       },
       {
         name: "Meyvelİ Soda",
@@ -605,17 +604,17 @@ export const menuItemsData = [
         price: "4.00 ₺",
       },
       {
-        name: "Su",
+        name: "Berry Hibiscus Tea",
         desc:
-          "",
-        price: "2.50 ₺",
+          "Hibiscus Çayı, Çilek, Üzüm, Nane",
+        price: "13.00 ₺",
       },
-    ],
-  },
-  {
-    id: 11,
-    title: "SOĞUK KAHVELER",
-    list: [
+      {
+        name: "Milkshake",
+        desc:
+          "Muz, Şeftali, Yeşil Elma",
+        price: "15.00 ₺",
+      },
       {
         name: "ICE AMERICANO",
         desc:
@@ -655,6 +654,7 @@ export const menuItemsData = [
       },
     ],
   },
+
 
 
 
