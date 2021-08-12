@@ -6,27 +6,15 @@ export const menuItemsData = [
     title: "KAHVALTI",
     list: [
       {
-        name: "Kaşarlı Tost",
-        desc:
-          "",
-        price: "8.00 ₺",
-      },
-      {
-        name: "Karışık/Sucuklu Tost",
-        desc:
-          "",
-        price: "10.00 ₺",
-      },
-      {
         name: "Tek Kİşİlİk Kahvaltı",
         desc:
-          "Vişne Reçeli, Çilek Reçeli, Çikolata, Tereyağ, Bal, Salatalık, Domates, Maydonoz, Haşlanmış Yumurta, Siyah-Yeşil Zeytin, Beyaz Peynir,Taze Kaşar Peyniri, Mihalliç Peynir, Çay (Fincan), Balon Ekmek, Patates ",
+          "Vişne Reçeli, Çilek Reçeli, Çikolata, Tereyağ, Bal, Salatalık, Domates, Maydonoz, Haşlanmış Yumurta, Siyah-Yeşil Zeytin, Beyaz Peynir,Taze Kaşar Peyniri, Mihalliç Peynir, Çay (Fincan), Balon Pide, Patates ",
         price: "20.00 ₺",
       },
       {
         name: "Serpme Kahvalti 2 KİŞİLİK",
         desc:
-          "Çilek Reçeli, Vişne Reçeli, Kayısı Reçeli, Tereyağ, Bal, Salatalık, Domates, Roka, Maydonoz, Yumurta(Sahan/Haşlanmış),Salam, Beyaz Peynir, Çeçil Peynir, Mihalliç Peynir, Kızartma Peynir,Dil Peyniri, Kuru Kayısı, Kuru Üzüm, Pişi, Patates Kızartması, Siyah/Yeşil Zeytin, Kokteyl Zeytin, Muamara, Ilık Biberli Lor Peyniri, Çay.",
+          "Yumurta(Sahan/Haşlanmış), Çilek Reçeli, Vişne Reçeli, Kayısı Reçeli, Tereyağ, Bal, Salatalık, Domates, Roka, Maydonoz, Salam, Beyaz Peynir, Çeçil Peynir, Mihalliç Peynir, Dil Peyniri, Kuru Kayısı, Kuru Üzüm, Pişi, Balon Pide, Patates Kızartması, Siyah/Yeşil Zeytin, Kokteyl Zeytin, Muamara, Ilık Biberli Lor Peyniri, Çay.",
         price: "60.00 ₺",
       },
       {
@@ -65,6 +53,18 @@ export const menuItemsData = [
         desc:
           "Domates, Biber, Soğan, Salça",
         price: "11.00 ₺",
+      },
+      {
+        name: "Kaşarlı Tost",
+        desc:
+          "",
+        price: "8.00 ₺",
+      },
+      {
+        name: "Karışık/Sucuklu Tost",
+        desc:
+          "",
+        price: "10.00 ₺",
       },
     ],
   },
@@ -295,25 +295,25 @@ export const menuItemsData = [
     title: "MAKARNALAR",
     list: [
       {
-        name: "FettucİNe alfredo",
+        name: "FettuciNe alfredo",
         desc:
           "Tereyağ, Mantar, Tavuk, Krem Sos (İsteğe bağlı Et)",
         price: "28.00 ₺",
       },
       {
-        name: "LİNGUİNE PESTO",
+        name: "LiNGUiNE PESTO",
         desc:
           "Krem Sos, Pesto Sos",
         price: "22.00 ₺",
       },
       {
-        name: "PENNE ARABİATTA",
+        name: "PENNE ARABiaTTA",
         desc:
           "Jalepone Biber, Dilimli Yeşil ve Siyah Zeytin, Çeri Domates, Napoliten Sos",
         price: "23.00 ₺",
       },
       {
-        name: "SPAGETTİ BOLOGNESE",
+        name: "SPAGETTi BOLOGNESE",
         desc:
           "Bolognese Sos",
         price: "28.00 ₺",
@@ -363,10 +363,40 @@ export const menuItemsData = [
     title: "TATLILAR",
     list: [
       {
-        name: "ÇİLEKLİ MAGNOLİA",
+        name: "ÇİLEKLİ MAGNOLIA",
         desc:
           "",
         price: "14.00 ₺",
+      },
+      {
+        name: "TRİLEÇE",
+        desc:
+          "",
+        price: "12.00 ₺",
+      },
+      {
+        name: "KÜNEFE",
+        desc:
+          "",
+        price: "22.00 ₺",
+      },
+      {
+        name: "SÜTLAÇ",
+        desc:
+          "",
+        price: "10.00 ₺",
+      },
+      {
+        name: "SAN SEBASTIAN CHEESECAKE",
+        desc:
+          "",
+        price: "17.00 ₺",
+      },
+      {
+        name: "TİRAMİSU",
+        desc:
+          "",
+        price: "13.00 ₺",
       },
       {
         name: "DEVIL'S PASTA",
@@ -382,31 +412,6 @@ export const menuItemsData = [
       },
       {
         name: "FRAMBUAZ CHEESECAKE",
-        desc:
-          "",
-        price: "13.00 ₺",
-      },
-      {
-        name: "SAN SEBASTIAN CHEESECAKE",
-        desc:
-          "",
-        price: "17.00 ₺",
-      },
-      {
-        name: "KÜNEFE",
-        desc:
-          "",
-        price: "22.00 ₺",
-      },
-      {
-        name: "SÜTLAÇ",
-        desc:
-          "",
-        price: "10.00 ₺",
-      },
-
-      {
-        name: "TİRAMİSU",
         desc:
           "",
         price: "13.00 ₺",
@@ -432,7 +437,7 @@ export const menuItemsData = [
       {
         name: "MEVSİM SALATA",
         desc:
-          "Mevsim Yeşillikleri, Havuç, Kara Lahana, Çeri Domates, Salatalık, Zeytinyağı, Limon Sos",
+          "Mevsim Yeşillikleri, Havuç, Mısır, Kara Lahana, Çeri Domates, Salatalık, Zeytinyağı, Limon Sos",
         price: "18.00 ₺",
       },
       {
@@ -464,6 +469,12 @@ export const menuItemsData = [
         desc:
           "",
         price: "3.00 ₺",
+      },
+      {
+        name: "ÇAY (FİNCAN)",
+        desc:
+          "",
+        price: "4.00 ₺",
       },
       {
         name: "FİLTRE KAHVE",
@@ -588,7 +599,7 @@ export const menuItemsData = [
       {
         name: "FRUTTI EXTRA",
         desc:
-          "Armut, Mandalina, Orman Meyveli, Limon",
+          "Armut, Mandalina, Orman Meyveli, Limon, Kavun",
         price: "5.00 ₺",
       },
       {
@@ -602,6 +613,12 @@ export const menuItemsData = [
         desc:
           "Sade",
         price: "4.00 ₺",
+      },
+      {
+        name: "CHurchill",
+        desc:
+          "",
+        price: "7.00 ₺",
       },
       {
         name: "Berry Hibiscus Tea",
