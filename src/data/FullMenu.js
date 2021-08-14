@@ -153,7 +153,7 @@ export const menuItemsData = [
       {
         name: "Karişik Izgara ",
         desc:
-          "",
+          "1 Adet Kasap Köfte, 1 Adet Piliç Izgara, 1 Adet Antrikot, 1 Adet Kuzu Pirzola",
         price: "54.00 ₺",
       },
       {
@@ -161,6 +161,12 @@ export const menuItemsData = [
         desc:
           "5 Adet (200 Gr)",
         price: "27.00 ₺",
+      },
+      {
+        name: "Kasap Köfte 1.5 Porsiyon",
+        desc:
+          "8 Adet (320 Gr)",
+        price: "43.00 ₺",
       },
       {
         name: "Kaşarli Köfte ",
