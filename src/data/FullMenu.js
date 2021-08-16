@@ -212,6 +212,12 @@ export const menuItemsData = [
           "5 Adet (Servis Süresi 30 Dakikadır)",
         price: "30.00 ₺",
       },
+      {
+        name: "ÇOBAN KAVURMA",
+        desc:
+          "Domates, Çarli Biber, Kapri Biber, Soğan, Sarımsak, Dana Eti (Servis Süresi 30 Dakikadır)",
+        price: "32.00 ₺",
+      },
     ],
   },
   /*{
@@ -301,12 +307,6 @@ export const menuItemsData = [
         desc:
           "Mantar, Kaşar, Tereyağ (Servis Süresi 30 Dakikadır)",
         price: "20.00 ₺",
-      },
-      {
-        name: "ÇOBAN KAVURMA",
-        desc:
-          "Domates, Çarli Biber, Kapri Biber, Soğan, Sarımsak, Dana Eti (Servis Süresi 30 Dakikadır)",
-        price: "32.00 ₺",
       },
 
     ],
