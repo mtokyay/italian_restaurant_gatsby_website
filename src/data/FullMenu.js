@@ -302,6 +302,12 @@ export const menuItemsData = [
           "Mantar, Kaşar, Tereyağ (Servis Süresi 30 Dakikadır)",
         price: "20.00 ₺",
       },
+      {
+        name: "ÇOBAN KAVURMA",
+        desc:
+          "Domates, Çarli Biber, Kapri Biber, Soğan, Sarımsak, Dana Eti (Servis Süresi 30 Dakikadır)",
+        price: "32.00 ₺",
+      },
 
     ],
   },
@@ -378,17 +384,17 @@ export const menuItemsData = [
     title: "TATLILAR",
     list: [
       {
-        name: "ÇİLEKLİ MAGNOLIA",
+        name: "ÇİLEKLİ MAGNOLİA",
         desc:
           "",
         price: "14.00 ₺",
-      },
+      },/*
       {
         name: "TRİLEÇE",
         desc:
           "",
         price: "12.00 ₺",
-      },
+      },*/
       {
         name: "KÜNEFE",
         desc:
@@ -400,7 +406,7 @@ export const menuItemsData = [
         desc:
           "",
         price: "10.00 ₺",
-      },
+      },/*
       {
         name: "SAN SEBASTIAN CHEESECAKE",
         desc:
@@ -424,7 +430,7 @@ export const menuItemsData = [
         desc:
           "",
         price: "14.00 ₺",
-      },
+      },*/
       {
         name: "FRAMBUAZ CHEESECAKE",
         desc:
