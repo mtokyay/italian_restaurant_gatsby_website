@@ -109,6 +109,18 @@ export const menuItemsData = [
           "Kajun Baharatı",
         price: "13.00 ₺",
       },
+      {
+        name: "Çıtır Peynir",
+        desc:
+          "8 Adet Mozzeralla Stick ve Patates ile Servis Edilir.",
+        price: "17.00 ₺",
+      },
+      {
+        name: "Soğan Halkası",
+        desc:
+          "8 Adet Soğan Halkası ve Patates ile Servis Edilir.",
+        price: "16.00 ₺",
+      },
     ],
   },
   {
@@ -154,7 +166,7 @@ export const menuItemsData = [
       {
         name: "Karişik Izgara ",
         desc:
-          "1 Adet Kasap Köfte, 1 Adet Kasap Köfte, 1 Adet Piliç Izgara, 1 Adet Antrikot Parçası, 1 Adet Bonfile Parçası (Servis Süresi 30 Dakikadır)",
+          "1 Adet Kasap Köfte, 1 Adet Kaşarlı Köfte, 1 Adet Piliç Izgara, 1 Adet Antrikot Parçası, 1 Adet Bonfile Parçası (Servis Süresi 30 Dakikadır)",
         price: "54.00 ₺",
       },
       {
