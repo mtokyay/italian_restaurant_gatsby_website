@@ -166,7 +166,7 @@ export const menuItemsData = [
       {
         name: "Karişik Izgara ",
         desc:
-          "1 Adet Kasap Köfte, 1 Adet Kaşarlı Köfte, 1 Adet Piliç Izgara, 1 Adet Antrikot Parçası, 1 Adet Bonfile Parçası (Servis Süresi 30 Dakikadır)",
+          "1 Adet Kasap Köfte, 1 Adet Kaşarlı Köfte, 1 Adet Piliç Izgara, 1 Adet Bonfile Parçası veya 1 Adet Pirzola, 1 Adet Antrikot Parçası (Servis Süresi 30 Dakikadır)",
         price: "54.00 ₺",
       },
       {
@@ -199,13 +199,13 @@ export const menuItemsData = [
         desc:
           "(Servis Süresi 30 Dakikadır)",
         price: "44.00 ₺",
-      },/*
+      },
       {
         name: "Kuzu Pİrzola",
         desc:
           "4 Adet (Servis Süresi 30 Dakikadır)",
         price: "48.00 ₺",
-      },
+      },/*
       {
         name: "T-Bone Steak ",
         desc:
@@ -406,13 +406,13 @@ export const menuItemsData = [
         desc:
           "",
         price: "10.00 ₺",
-      },/*
+      },
       {
         name: "TRİLEÇE",
         desc:
           "",
         price: "12.00 ₺",
-      },*/
+      },
       {
         name: "KÜNEFE",
         desc:
