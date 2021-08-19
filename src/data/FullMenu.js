@@ -5,7 +5,12 @@ export const menuItemsData = [
     id: 0,
     title: "KAHVALTI",
     list: [
-
+      {
+        name: "Açık Büfe Kahvaltı",
+        desc:
+           "Cumartesi - Pazar günleri 09:00-14:00 arasında kahvaltı servisimiz açık büfedir. 0-6 yaş ücretsizdir.",
+        price: "35.00 ₺",
+      },
       {
         name: "Tek Kİşİlİk Kahvaltı",
         desc:
@@ -199,13 +204,13 @@ export const menuItemsData = [
         desc:
           "(Servis Süresi 30 Dakikadır)",
         price: "44.00 ₺",
-      },
+      },/*
       {
         name: "Kuzu Pİrzola",
         desc:
           "4 Adet (Servis Süresi 30 Dakikadır)",
         price: "48.00 ₺",
-      },/*
+      },
       {
         name: "T-Bone Steak ",
         desc:
@@ -417,7 +422,7 @@ export const menuItemsData = [
         name: "KÜNEFE",
         desc:
           "",
-        price: "22.00 ₺",
+        price: "18.00 ₺",
       },
       {
         name: "SÜTLAÇ",
