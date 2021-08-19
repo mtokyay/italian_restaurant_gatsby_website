@@ -14,7 +14,7 @@ export default function OpenHours() {
     <StyledDiv>
       <StyledList>
         <dt>Pazartesi - Pazar</dt>
-        <dd>09:00 - 22:00</dd>
+        <dd>09:00 - 24:00</dd>
       </StyledList>
     </StyledDiv>
   )

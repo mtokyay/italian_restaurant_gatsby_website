@@ -424,7 +424,7 @@ export const menuItemsData = [
         desc:
           "",
         price: "10.00 ₺",
-      },/*
+      },
       {
         name: "SAN SEBASTIAN CHEESECAKE",
         desc:
@@ -454,7 +454,7 @@ export const menuItemsData = [
         desc:
           "",
         price: "13.00 ₺",
-      },*/
+      },
     ],
   },
   {
