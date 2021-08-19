@@ -422,7 +422,7 @@ export const menuItemsData = [
         name: "KÜNEFE",
         desc:
           "",
-        price: "18.00 ₺",
+        price: "16.00 ₺",
       },
       {
         name: "SÜTLAÇ",
