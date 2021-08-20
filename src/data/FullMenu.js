@@ -14,13 +14,13 @@ export const menuItemsData = [
       {
         name: "Tek Kİşİlİk Kahvaltı",
         desc:
-          "Vişne Reçeli, Çilek Reçeli, Çikolata, Tereyağ, Bal, Salatalık, Domates, Maydonoz, Haşlanmış Yumurta, Siyah-Yeşil Zeytin, Beyaz Peynir,Taze Kaşar Peyniri, Mihalliç Peynir, Çay (Fincan), Balon Pide, Patates ",
+          "Vişne Reçeli, Çilek Reçeli, Çikolata, Tereyağ, Bal, Salatalık, Domates, Maydonoz, Haşlanmış Yumurta, Siyah-Yeşil Zeytin, Beyaz Peynir,Taze Kaşar Peyniri, Çay, Balon Pide, Patates ",
         price: "20.00 ₺",
       },
       {
         name: "Serpme Kahvalti 2 KİŞİLİK",
         desc:
-          "Yumurta(Sahan/Haşlanmış), Çilek Reçeli, Vişne Reçeli, Kayısı Reçeli, Tereyağ, Bal, Salatalık, Domates, Roka, Maydonoz, Salam, Beyaz Peynir, Çeçil Peynir, Mihalliç Peynir, Dil Peyniri, Kuru Kayısı, Kuru Üzüm, Pişi, Balon Pide, Patates Kızartması, Siyah/Yeşil Zeytin, Kokteyl Zeytin, Muamara, Ilık Biberli Lor Peyniri, Çay.",
+          "Yumurta(Sahan/Haşlanmış), Çilek Reçeli, Vişne Reçeli, Kayısı Reçeli, Tereyağ, Bal, Salatalık, Domates, Roka, Maydonoz, Salam, Beyaz Peynir, Çeçil Peynir, Dil Peyniri, Kuru Kayısı, Kuru Üzüm, Pişi, Balon Pide, Patates Kızartması, Siyah/Yeşil Zeytin, Kokteyl Zeytin, Ilık Biberli Lor Peyniri, Çay.",
         price: "60.00 ₺",
       },
       {
@@ -47,19 +47,19 @@ export const menuItemsData = [
         desc:
           "",
         price: "13.00 ₺",
-      },
+      },/*
       {
         name: "Pastirmali Yumurta",
         desc:
           "",
         price: "15.00 ₺",
-      },
+      },*/
       {
         name: "Menemen",
         desc:
           "Domates, Biber, Soğan, Salça",
         price: "11.00 ₺",
-      },
+      },/*
       {
         name: "Kaşarlı Tost",
         desc:
@@ -71,7 +71,7 @@ export const menuItemsData = [
         desc:
           "",
         price: "10.00 ₺",
-      },
+      },*/
     ],
   },
   {
@@ -663,13 +663,13 @@ export const menuItemsData = [
         desc:
           "",
         price: "7.00 ₺",
-      },
+      },/*
       {
         name: "Berry Hibiscus Tea",
         desc:
           "Hibiscus Çayı, Çilek, Üzüm, Nane",
         price: "13.00 ₺",
-      },
+      },*/
       {
         name: "Milkshake",
         desc:
