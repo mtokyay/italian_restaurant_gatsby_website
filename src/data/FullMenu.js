@@ -21,7 +21,7 @@ export const menuItemsData = [
         name: "Serpme Kahvalti 2 KİŞİLİK",
         desc:
           "Yumurta(Sahan/Haşlanmış), Çilek Reçeli, Vişne Reçeli, Kayısı Reçeli, Tereyağ, Bal, Salatalık, Domates, Roka, Maydonoz, Salam, Beyaz Peynir, Çeçil Peynir, Dil Peyniri, Kuru Kayısı, Kuru Üzüm, Pişi, Balon Pide, Patates Kızartması, Siyah/Yeşil Zeytin, Kokteyl Zeytin, Ilık Biberli Lor Peyniri, Çay.",
-        price: "60.00 ₺",
+        price: "70.00 ₺",
       },
       {
         name: "Sahanda Yumurta",
