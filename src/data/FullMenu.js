@@ -147,12 +147,12 @@ export const menuItemsData = [
 
       {
         name: "Normal Burger",
-        desc:"Kıvırcık Marul, Domates, Salatalık Turşusu, Karamelize Soğan, Patates Kızartması (Servis Süresi 30 Dakikadır)",
+        desc:"Hamburger Köftesi, Kıvırcık Marul, Domates, Salatalık Turşusu, Karamelize Soğan, Patates Kızartması (Servis Süresi 30 Dakikadır)",
         price: "26.00 ₺",
       },
       {
         name: "Cheese Burger",
-        desc:"Cheddar, Kıvırcık Marul, Domates, Salatalık Turşusu, Karamelize Soğan, Özel Ballı Hardallı Sos, Patates Kızartması (Servis Süresi 30 Dakikadır)",
+        desc:"Hamburger Köftesi, Cheddar, Kıvırcık Marul, Domates, Salatalık Turşusu, Karamelize Soğan, Özel Ballı Hardallı Sos, Patates Kızartması (Servis Süresi 30 Dakikadır)",
         price: "28.00 ₺",
       },
       {
@@ -183,45 +183,9 @@ export const menuItemsData = [
 
     ],
   },
+
   {
     id: 3,
-    title: "SALATALAR",
-    list: [
-      {
-        name: "AKDENİZ SALATASI",
-        desc:
-          "Karışık Akdeniz Yeşillikleri, Kırmızı Soğan, Salatalık Turşusu, Beyaz Peynir, Siyah-Yeşil Zeytin, Çeri Domates, Zeytinyağı, Limon Sos ",
-        price: "17.00 ₺",
-      },
-      {
-        name: "ÇOBAN SALATA",
-        desc:
-          "Domartes, Soğan, Salatalık, Biber, Maydonoz, Zeytinyağı, Limon Sos",
-        price: "17.00 ₺",
-      },
-      {
-        name: "MEVSİM SALATA",
-        desc:
-          "Mevsim Yeşillikleri, Havuç, Mısır, Kara Lahana, Çeri Domates, Salatalık, Zeytinyağı, Limon Sos",
-        price: "17.00 ₺",
-      },
-      {
-        name: "IZGARA TAVUKLU SALATA",
-        desc:
-          "Izgara Tavuk(100gr), Domates, Yeşil Elma, Rendelenmiş Parmesan Peyniri, Soğan, Çeri Domates, Zeytinyağı Limon Sos",
-        price: "28.00 ₺",
-      },
-      {
-        name: "IZGARA BONFİLE SALATA",
-        desc:
-          "Izgara Bonfile(100gr), Karışık Akdeniz Yeşillikleri, Salatalık, Çeri Domates, Çıtır Tavuk, Zeytinyağı, Limon Sos",
-        price: "35.00 ₺",
-      },
-
-    ],
-  },
-  {
-    id: 4,
     title: "PİDE",
     list: [
       {
@@ -257,7 +221,7 @@ export const menuItemsData = [
     ],
   },
   {
-    id: 5,
+    id: 4,
     title: "GÜVEÇ-SAÇ YEMEKLERİ",
     list: [
 
@@ -295,7 +259,7 @@ export const menuItemsData = [
     ],
   },
   {
-    id: 6,
+    id: 5,
     title: "IZGARALAR",
     list: [
       {
@@ -323,7 +287,7 @@ export const menuItemsData = [
         price: "24.00 ₺",
       },
       {
-        name: "Adaba Kebap",
+        name: "Adana Kebap",
         desc:
           "Acılı(Servis Süresi 30 Dakikadır)",
         price: "32.00 ₺",
@@ -388,6 +352,43 @@ export const menuItemsData = [
           "(Servis Süresi 30 Dakikadır)",
         price: "45.00 ₺",
       },
+    ],
+  },
+  {
+    id: 6,
+    title: "SALATALAR",
+    list: [
+      {
+        name: "AKDENİZ SALATASI",
+        desc:
+          "Karışık Akdeniz Yeşillikleri, Kırmızı Soğan, Salatalık Turşusu, Beyaz Peynir, Siyah-Yeşil Zeytin, Çeri Domates, Zeytinyağı, Limon Sos ",
+        price: "17.00 ₺",
+      },
+      {
+        name: "ÇOBAN SALATA",
+        desc:
+          "Domartes, Soğan, Salatalık, Biber, Maydonoz, Zeytinyağı, Limon Sos",
+        price: "17.00 ₺",
+      },
+      {
+        name: "MEVSİM SALATA",
+        desc:
+          "Mevsim Yeşillikleri, Havuç, Mısır, Kara Lahana, Çeri Domates, Salatalık, Zeytinyağı, Limon Sos",
+        price: "17.00 ₺",
+      },
+      {
+        name: "IZGARA TAVUKLU SALATA",
+        desc:
+          "Izgara Tavuk(100gr), Domates, Yeşil Elma, Rendelenmiş Parmesan Peyniri, Soğan, Çeri Domates, Zeytinyağı Limon Sos",
+        price: "28.00 ₺",
+      },
+      {
+        name: "IZGARA BONFİLE SALATA",
+        desc:
+          "Izgara Bonfile(100gr), Karışık Akdeniz Yeşillikleri, Salatalık, Çeri Domates, Çıtır Tavuk, Zeytinyağı, Limon Sos",
+        price: "35.00 ₺",
+      },
+
     ],
   },
   {
@@ -540,6 +541,12 @@ export const menuItemsData = [
     list: [
       {
         name: "ÇİLEKLİ MAGNOLİA",
+        desc:
+          "",
+        price: "14.00 ₺",
+      },
+      {
+        name: "OREO'LU MAGNOLİA",
         desc:
           "",
         price: "14.00 ₺",
