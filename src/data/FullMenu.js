@@ -105,7 +105,7 @@ export const menuItemsData = [
       {
         name: "Keyİf Sepetİ",
         desc:
-          "Sosis, Soğan Halkası, Mozarella Stick, Patates Kızartması, Çıtır Tavuk",
+          "Soğan Halkası, Mozarella Stick, Patates Kızartması, Çıtır Tavuk",
         price: "22.00 ₺",
       },
       {
@@ -167,7 +167,7 @@ export const menuItemsData = [
       },
       {
         name: "Tokyay Burger",
-        desc:"Hamburger Köftesi, Dana Füme, Cheddar, Kıvırcık Marul, Domates, Salatalık Turşusu, Karamelize Soğan, Özel Ballı Hardallı Sos, Patates Kızartması (Servis Süresi 30 Dakikadır)",
+        desc:"Hamburger Köftesi(150 gr), Dana Füme, Cheddar, Kıvırcık Marul, Domates, Salatalık Turşusu, Karamelize Soğan, Özel Ballı Hardallı Sos, Patates Kızartması (Servis Süresi 30 Dakikadır)",
         price: "32.00 ₺",
       },
       {
