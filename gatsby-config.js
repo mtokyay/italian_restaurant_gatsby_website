@@ -23,8 +23,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: "Mondello Italian Restaurant",
-        short_name: "Mondello",
+        name: "Tokyay Bahce",
+        short_name: "TokyayBahce",
         start_url: "/",
         background_color: "#ffffff",
         theme_color: "#16191a",

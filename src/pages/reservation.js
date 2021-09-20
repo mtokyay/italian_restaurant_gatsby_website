@@ -13,7 +13,7 @@ const StyledMainWrapper = styled.main`
 
 export default function OurMenuPage() {
   return (
-    <Layout>
+   <Layout>
       <SEO
         title="Rezervasyon"
         description="Tokyay Bahçe için rezervasyon yapabilirsiniz."
@@ -21,11 +21,12 @@ export default function OurMenuPage() {
       <StyledMainWrapper>
         <PageHeader
           heading="Rezervasyon"
-          subheading="Tokyay Bahçe için rezervasyon yapabilirsiniz."
+          subheading="Tokyay Bahçe rezervasyon için 0545 217 51 17 numarasını arayabilirsiniz."
         />
-        <ReservationMid />
-        <ReservationBottom />
+
       </StyledMainWrapper>
     </Layout>
+
+
   )
 }
