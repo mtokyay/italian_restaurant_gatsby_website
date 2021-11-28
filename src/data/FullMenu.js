@@ -8,14 +8,14 @@ export const menuItemsData = [
       {
         name: "Açık Büfe Kahvaltı",
         desc:
-           "Cumartesi - Pazar günleri 09:00-14:00 arasında kahvaltı servisimiz açık büfedir. 0-6 yaş ücretsizdir.",
+           "Cumartesi - Pazar günleri 09:00-14:00 arasında kahvaltı servisimiz açık büfedir. 0-5 yaş ücretsizdir.",
         price: "35.00 ₺",
       },
       {
         name: "Tek Kİşİlİk Kahvaltı",
         desc:
           "Vişne Reçeli, Çilek Reçeli, Çikolata, Tereyağ, Bal, Salatalık, Domates, Maydonoz, Haşlanmış Yumurta, Siyah-Yeşil Zeytin, Beyaz Peynir,Taze Kaşar Peyniri, Çay, Balon Pide, Patates ",
-        price: "20.00 ₺",
+        price: "25.00 ₺",
       },
       {
         name: "Serpme Kahvalti 2 KİŞİLİK",
@@ -59,19 +59,19 @@ export const menuItemsData = [
         desc:
           "Domates, Biber, Soğan, Salça",
         price: "11.00 ₺",
-      },/*
+      },
       {
         name: "Kaşarlı Tost",
         desc:
           "",
-        price: "8.00 ₺",
+        price: "10.00 ₺",
       },
       {
         name: "Karışık/Sucuklu Tost",
         desc:
           "",
-        price: "10.00 ₺",
-      },*/
+        price: "12.00 ₺",
+      },
     ],
   },
   {
@@ -82,7 +82,7 @@ export const menuItemsData = [
         name: "Günün Çorbası",
         desc:
           "",
-        price: "10.00 ₺",
+        price: "15.00 ₺",
       },
       {
         name: "Tava Yoğurt",
