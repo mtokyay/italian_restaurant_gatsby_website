@@ -519,7 +519,7 @@ export const menuItemsData = [
         name: "CAPPUCCINO",
         desc:
           "",
-        price: "11.00 ₺",
+        price: "12.00 ₺",
       },
       {
         name: "ESPRESSO",
@@ -531,7 +531,7 @@ export const menuItemsData = [
         name: "LATTE",
         desc:
           "",
-        price: "11.00 ₺",
+        price: "12.00 ₺",
       },
     ],
   },
@@ -555,25 +555,19 @@ export const menuItemsData = [
         name: "FRAMBUAZ CHEESECAKE",
         desc:
           "",
-        price: "13.00 ₺",
+        price: "16.00 ₺",
       },
       {
         name: "TİRAMİSU",
         desc:
           "",
-        price: "13.00 ₺",
-      },
-      {
-        name: "DEVIL'S PASTA",
-        desc:
-          "",
-        price: "14.00 ₺",
+        price: "16.00 ₺",
       },
       {
         name: "FISTIK RÜYASI",
         desc:
           "",
-        price: "14.00 ₺",
+        price: "17.00 ₺",
       },
       {
         name: "KÜNEFE",
