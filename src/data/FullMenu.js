@@ -178,7 +178,7 @@ export const menuItemsData = [
       {
         name: "Tavuk Burger",
         desc:"Özel soslanmış Tavuk(150gr), Kıvırcık Marul, Özel Sos ve Patates Kızartması (Servis Süresi 30 Dakikadır)",
-        price: "52.00 ₺",
+        price: "28.00 ₺",
       },
       {
         name: "Cheddar Peynİrİ",
