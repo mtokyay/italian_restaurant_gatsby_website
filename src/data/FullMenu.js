@@ -215,7 +215,7 @@ export const menuItemsData = [
         name: "KUŞBAŞI PİDE",
         desc:
           "",
-        price: "38.00 ₺",
+        price: "40.00 ₺",
       },
       {
         name: "SUCUKLU-KAŞARLI PİDE",
