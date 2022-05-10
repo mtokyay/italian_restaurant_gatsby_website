@@ -249,6 +249,12 @@ export const menuItemsData = [
         price: "48.00 ₺",
       },
       {
+        name: "BONFİLE ÇOBAN KAVURMA",
+        desc:
+          "Bonfile Eti, Çarli Biber, Kapri Biber, Soğan, Sarımsak (Servis Süresi 30 Dakikadır)",
+        price: "80.00 ₺",
+      },
+      {
         name: "ÇOBAN KAVURMA",
         desc:
           "Domates, Çarli Biber, Kapri Biber, Soğan, Sarımsak, Dana Eti (Servis Süresi 30 Dakikadır)",
