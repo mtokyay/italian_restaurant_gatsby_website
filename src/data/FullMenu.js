@@ -91,9 +91,9 @@ export const menuItemsData = [
         price: "15.00 ₺",
       },
       {
-        name: "Çıtır Tavuk",
+        name: "Çıtır PİLİÇ",
         desc:
-          "Özel harmanlanmış tavuk harcı",
+          "Özel harmanlanmış sos ile servis edilir",
         price: "35.00 ₺",
       },
      /* {
@@ -105,7 +105,7 @@ export const menuItemsData = [
       {
         name: "Keyİf Sepetİ",
         desc:
-          "Soğan Halkası, Mozarella Stick, Patates Kızartması, Çıtır Tavuk",
+          "Soğan Halkası, Mozarella Stick, Patates Kızartması, Çıtır Piliç",
         price: "40.00 ₺",
       },
       {
@@ -146,7 +146,7 @@ export const menuItemsData = [
     list: [
 
       {
-        name: "Normal Burger",
+        name: "Hamburger",
         desc:"Hamburger Köftesi, Kıvırcık Marul, Domates, Salatalık Turşusu, Karamelize Soğan, Patates Kızartması (Servis Süresi 30 Dakikadır)",
         price: "38.00 ₺",
       },
@@ -176,8 +176,8 @@ export const menuItemsData = [
         price: "60.00 ₺",
       },
       {
-        name: "Tavuk Burger",
-        desc:"Özel soslanmış Tavuk(150gr), Kıvırcık Marul, Özel Sos ve Patates Kızartması (Servis Süresi 30 Dakikadır)",
+        name: "Piliç Burger",
+        desc:"Özel soslanmış piliç(150gr), Kıvırcık Marul, Özel Sos ve Patates Kızartması (Servis Süresi 30 Dakikadır)",
         price: "38.00 ₺",
       },
       {
@@ -283,6 +283,30 @@ export const menuItemsData = [
   },
   {
     id: 5,
+    title: "KEBAPLAR",
+    list: [
+      {
+        name: "Adana Kebap",
+        desc:
+          "Acılı(Servis Süresi 30 Dakikadır)",
+        price: "50.00 ₺",
+      },
+      {
+        name: "Urfa Kebap",
+        desc:
+          "Acısız(Servis Süresi 30 Dakikadır)",
+        price: "50.00 ₺",
+      },
+      {
+        name: "BEYTİ KEBAP",
+        desc:
+          "(Servis Süresi 30 Dakikadır)",
+        price: "70.00 ₺",
+      },
+    ],
+  },
+  {
+    id: 6,
     title: "IZGARALAR",
     list: [
       {
@@ -304,22 +328,10 @@ export const menuItemsData = [
         price: "40.00 ₺",
       },
       {
-        name: "Tavuk Izgara ",
+        name: "PİLİÇ Izgara ",
         desc:
           "(Servis Süresi 30 Dakikadır)",
         price: "38.00 ₺",
-      },
-      {
-        name: "Adana Kebap",
-        desc:
-          "Acılı(Servis Süresi 30 Dakikadır)",
-        price: "50.00 ₺",
-      },
-      {
-        name: "Urfa Kebap",
-        desc:
-          "Acısız(Servis Süresi 30 Dakikadır)",
-        price: "50.00 ₺",
       },
       {
         name: "Osmanlı Sucuk Izgara ",
@@ -375,16 +387,11 @@ export const menuItemsData = [
           "(Servis Süresi 30 Dakikadır)",
         price: "75.00 ₺",
       },
-      {
-        name: "KUZU BEYTİ",
-        desc:
-          "(Servis Süresi 30 Dakikadır)",
-        price: "75.00 ₺",
-      },
+
     ],
   },
   {
-    id: 6,
+    id: 7,
     title: "SALATALAR",
     list: [
       {
@@ -420,14 +427,14 @@ export const menuItemsData = [
       {
         name: "IZGARA BONFİLE SALATA",
         desc:
-          "Izgara Bonfile(100gr), Karışık Akdeniz Yeşillikleri, Salatalık, Çeri Domates, Çıtır Tavuk, Zeytinyağı, Limon Sos",
+          "Izgara Bonfile(100gr), Karışık Akdeniz Yeşillikleri, Salatalık, Çeri Domates, Çıtır Piliç, Zeytinyağı, Limon Sos",
         price: "55.00 ₺",
       },
 
     ],
   },
   {
-    id: 7,
+    id: 8,
     title: "SOĞUK İÇECEKLER",
     list: [
       {
@@ -449,12 +456,6 @@ export const menuItemsData = [
         price: "12.00 ₺",
       },
       {
-        name: "KUTU İÇECEKLER",
-        desc:
-          "Coca Cola, Fanta, Sprite",
-        price: "12.00 ₺",
-      },
-      {
         name: "SPRITE/FANTA",
         desc:
           "",
@@ -473,12 +474,6 @@ export const menuItemsData = [
         price: "12.00 ₺",
       },
       {
-        name: "ULUDAĞ Gazoz",
-        desc:
-          "Portakallı, Sade",
-        price: "8.00 ₺",
-      },
-      {
         name: "Lİmonata (Şİşe)",
         desc:
           "",
@@ -487,20 +482,8 @@ export const menuItemsData = [
       {
         name: "Soda",
         desc:
-          "Sade",
+          "Sade, Elma, Karpuz Çilek, Limon",
         price: "5.00 ₺",
-      },
-      {
-        name: "Meyvelİ Soda",
-        desc:
-          "Kivi, Elma, Karpuz Çilek, Limon, Nar, Şeftali",
-        price: "5.00 ₺",
-      },
-      {
-        name: "FRUTTI EXTRA",
-        desc:
-          "Armut, Mandalina, Orman Meyveli, Limon, Kavun",
-        price: "8.00 ₺",
       },
       {
         name: "CHurchill",
@@ -529,7 +512,7 @@ export const menuItemsData = [
     ],
   },
   {
-    id: 8,
+    id: 9,
     title: "SICAK İÇECEKLER",
     list: [
       {
@@ -577,7 +560,7 @@ export const menuItemsData = [
     ],
   },
   {
-    id: 9,
+    id: 10,
     title: "TATLILAR",
     list: [
       {
