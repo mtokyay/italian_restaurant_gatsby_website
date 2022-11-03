@@ -273,6 +273,18 @@ export const menuItemsData = [
     title: "KEBAPLAR",
     list: [
       {
+        name: "Adana Kebap İskender",
+        desc:
+          "Acılı(Servis Süresi 30 Dakikadır)",
+        price: "90.00 ₺",
+      },
+      {
+        name: "Urfa Kebap İskender",
+        desc:
+          "Acısız(Servis Süresi 30 Dakikadır)",
+        price: "90.00 ₺",
+      },
+      {
         name: "Adana Kebap",
         desc:
           "Acılı(Servis Süresi 30 Dakikadır)",
@@ -397,6 +409,30 @@ export const menuItemsData = [
   },
   {
     id: 7,
+    title: "MAKARNALAR",
+    list: [
+      {
+        name: "SPAGHETTI BOLOGNESE",
+        desc:
+          "(Servis Süresi 30 Dakikadır)",
+        price: "50.00 ₺",
+      },
+      {
+        name: "PENNE ARABIATA",
+        desc:
+        "(Servis Süresi 30 Dakikadır)",
+        price: "50.00 ₺",
+      },
+      {
+        name: "FETTUCINI ALFREDO",
+        desc:
+        "(Servis Süresi 30 Dakikadır)",
+        price: "50.00 ₺",
+      },
+    ],
+  },
+  {
+    id: 8,
     title: "SALATALAR",
     list: [
       {
@@ -452,7 +488,7 @@ export const menuItemsData = [
     ],
   },
   {
-    id: 8,
+    id: 9,
     title: "SOĞUK İÇECEKLER",
     list: [
       {
@@ -530,7 +566,7 @@ export const menuItemsData = [
     ],
   },
   {
-    id: 9,
+    id: 10,
     title: "SICAK İÇECEKLER",
     list: [
       {
@@ -538,6 +574,36 @@ export const menuItemsData = [
         desc:
           "",
         price: "5.00 ₺",
+      },
+      {
+        name: "IHLAMUR",
+        desc:
+          "",
+        price: "15.00 ₺",
+      },
+      {
+        name: "PAPATYA ÇAYI",
+        desc:
+          "",
+        price: "15.00 ₺",
+      },
+      {
+        name: "YEŞİL ÇAY",
+        desc:
+          "",
+        price: "15.00 ₺",
+      },
+      {
+        name: "ADAÇAYI",
+        desc:
+          "",
+        price: "15.00 ₺",
+      },
+      {
+        name: "KUŞBURNU",
+        desc:
+          "",
+        price: "15.00 ₺",
       },
       {
         name: "TÜRK KAHVESİ",
@@ -578,7 +644,7 @@ export const menuItemsData = [
     ],
   },
   {
-    id: 10,
+    id: 11,
     title: "TATLILAR",
     list: [
       {
@@ -602,8 +668,8 @@ export const menuItemsData = [
       {
         name: "GÜVEÇTE SUFLE",
         desc:
-          "",
-        price: "25.00 ₺",
+          "Dondurma ile servis edilir",
+        price: "30.00 ₺",
       },
       {
         name: "FRAMBUAZ CHEESECAKE",
