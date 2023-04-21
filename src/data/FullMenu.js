@@ -598,13 +598,13 @@ export const menuItemsData = [
         name: "ŞIRA",
         desc:
           "",
-        price: "18.00 ₺",
+        price: "20.00 ₺",
       },
       {
         name: "Lİmonata (Şİşe)",
         desc:
           "",
-        price: "12.50 ₺",
+        price: "15.00 ₺",
       },
       {
         name: "Soda",
