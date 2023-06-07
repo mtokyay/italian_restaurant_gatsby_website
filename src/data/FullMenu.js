@@ -367,79 +367,79 @@ export const menuItemsData = [
         name: "Kasap Köfte",
         desc:
           "5 Adet (200 Gr) (Servis Süresi 30 Dakikadır)",
-        price: "90.00 ₺",
+        price: "105.00 ₺",
       },
       {
         name: "Kaşarli Köfte ",
         desc:
           "4 Adet (200 Gr) (Servis Süresi 30 Dakikadır)",
-        price: "100.00 ₺",
+        price: "120.00 ₺",
       },
       {
         name: "PİLİÇ Izgara ",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "80.00 ₺",
+        price: "90.00 ₺",
       },
       {
         name: "Osmanlı Sucuk Izgara ",
         desc:
           "5 Adet (Servis Süresi 30 Dakikadır)",
-        price: "90.00 ₺",
+        price: "105.00 ₺",
       },
       {
         name: "Dana Şaşlik",
         desc:
           "2 Adet (Servis Süresi 30 Dakikadır)",
-        price: "180.00 ₺",
+        price: "250.00 ₺",
       },
       {
         name: "Antrİkot",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "200.00 ₺",
+        price: "240.00 ₺",
       },
       {
         name: "bonfİle",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "210.00 ₺",
+        price: "250.00 ₺",
       },
       {
         name: "KARIŞIK IZGARA",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "200.00 ₺",
+        price: "250.00 ₺",
       },
       {
         name: "CİĞER ŞİŞ",
         desc:
           "5 Adet (Servis Süresi 30 Dakikadır)",
-        price: "100.00 ₺",
+        price: "120.00 ₺",
       },
       {
         name: "KUZU KÜŞLEME ",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "170.00 ₺",
+        price: "210.00 ₺",
       },
       {
         name: "Kuzu Külbasti ",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "180.00 ₺",
+        price: "210.00 ₺",
       },
       {
         name: "KUZU ŞİŞ",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "170.00 ₺",
+        price: "200.00 ₺",
       },
       {
         name: "BÖBREK YATAĞI",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "170.00 ₺",
+        price: "200.00 ₺",
       },
 
     ],
@@ -482,25 +482,25 @@ export const menuItemsData = [
         name: "KREMALI MANTARLI PİLİÇ",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "90.00 ₺",
+        price: "110.00 ₺",
       },
       {
         name: "BARBEKÜ SOSLU PİLİÇ",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "80.00 ₺",
+        price: "100.00 ₺",
       },
       {
         name: "KÖRİ SOSLU PİLİÇ",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "80.00 ₺",
+        price: "100.00 ₺",
       },
       {
         name: "TATLI - EKŞİ SOSLU PİLİÇ",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "80.00 ₺",
+        price: "100.00 ₺",
       },
     ],
   },
@@ -555,7 +555,7 @@ export const menuItemsData = [
         name: "IZGARA BONFİLE SALATA",
         desc:
           "Izgara Bonfile(100gr), Karışık Akdeniz Yeşillikleri, Salatalık, Çeri Domates, Çıtır Piliç, Zeytinyağı, Limon Sos",
-        price: "100.00 ₺",
+        price: "120.00 ₺",
       },
 
     ],
@@ -580,25 +580,25 @@ export const menuItemsData = [
         name: "COCA COLA",
         desc:
           "Original, Zero",
-        price: "18.00 ₺",
+        price: "20.00 ₺",
       },
       {
         name: "SPRITE/FANTA",
         desc:
           "",
-        price: "18.00 ₺",
+        price: "20.00 ₺",
       },
       {
         name: "ŞALGAM",
         desc:
           "ACILI, ACISIZ",
-        price: "18.00 ₺",
+        price: "20.00 ₺",
       },
       {
         name: "ŞIRA",
         desc:
           "",
-        price: "20.00 ₺",
+        price: "22.00 ₺",
       },
       {
         name: "Lİmonata (Şİşe)",
