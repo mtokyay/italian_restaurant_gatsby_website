@@ -6,7 +6,6 @@ export const menuItemsData = [
     title: "KAHVALTI",
     list: [
       {
-        name: "Açık Büfe Kahvaltı",
         desc:
           "Cumartesi - Pazar günleri 09:00-14:00 arasında kahvaltı servisimiz açık büfedir. 0-5 yaş ücretsizdir. (6-12 Yaş : 70.00₺)",
         price: "100.00 ₺",
@@ -270,13 +269,13 @@ export const menuItemsData = [
         name: "BONFİLE ÇOBAN KAVURMA",
         desc:
           "Bonfile Eti, Çarli Biber, Kapya Biber, Soğan, Sarımsak (Servis Süresi 30 Dakikadır)",
-        price: "200.00 ₺",
+        price: "250.00 ₺",
       },
       {
         name: "ÇOBAN KAVURMA",
         desc:
           "Domates, Çarli Biber, Kapya Biber, Soğan, Sarımsak, Dana Eti (Servis Süresi 30 Dakikadır)",
-        price: "160.00 ₺",
+        price: "240.00 ₺",
       },
       {
         name: "SAÇ KAVURMA",
