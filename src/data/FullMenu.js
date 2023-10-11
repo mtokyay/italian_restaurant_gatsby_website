@@ -568,13 +568,13 @@ export const menuItemsData = [
         name: "Su",
         desc:
           "",
-        price: "8.00 ₺",
+        price: "10.00 ₺",
       },
       {
         name: "AYRAN",
         desc:
           "",
-        price: "10.00 ₺",
+        price: "15.00 ₺",
       },
       {
         name: "COCA COLA",
