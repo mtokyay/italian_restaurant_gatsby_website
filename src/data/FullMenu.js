@@ -9,7 +9,7 @@ export const menuItemsData = [
         name: "AÇIK BÜFE KAHVALTI",
         desc:
           "Cumartesi - Pazar günleri 09:00-14:00 arasında kahvaltı servisimiz açık büfedir. 0-5 yaş ücretsizdir. (5-10 Yaş : 100.00₺)",
-        price: "150.00 ₺",
+        price: "200.00 ₺",
       },
       {
         name: "SINIRSIZ Serpme KAHVALTI 2 KİŞİLİK",
