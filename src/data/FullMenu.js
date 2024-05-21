@@ -8,7 +8,7 @@ export const menuItemsData = [
       {
         name: "AÇIK BÜFE KAHVALTI",
         desc:
-          "Cumartesi - Pazar günleri 09:00-14:00 arasında kahvaltı servisimiz açık büfedir. 0-5 yaş ücretsizdir. (5-10 Yaş : 100.00₺)",
+          "Cumartesi - Pazar günleri 09:00-14:00 arasında kahvaltı servisimiz açık büfedir. 0-3 yaş ücretsizdir. 4-6 Yaş : 100.00₺. 7 ve üzeri:200.00₺",
         price: "200.00 ₺",
       },
       {
@@ -128,14 +128,8 @@ export const menuItemsData = [
       {
         name: "Keyİf Sepetİ",
         desc:
-          "Soğan Halkası, Mozarella Stick, Patates Kızartması, Çıtır Piliç",
+          "Soğan Halkası, Mozarella Stick, Patates Kızartması, Sosis",
         price: "200.00 ₺",
-      },
-      {
-        name: "Çıtır PİLİÇ",
-        desc:
-          "Özel harmanlanmış sos ile servis edilir",
-        price: "150.00 ₺",
       },
       {
         name: "Soğan Halkası",
