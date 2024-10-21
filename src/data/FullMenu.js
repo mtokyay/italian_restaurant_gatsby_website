@@ -559,7 +559,7 @@ export const menuItemsData = [
         name: "Hayat Çocuk Su",
         desc:
           "",
-        price: "15.00 ₺",
+        price: "20.00 ₺",
       },
       {
         name: "AYRAN",
