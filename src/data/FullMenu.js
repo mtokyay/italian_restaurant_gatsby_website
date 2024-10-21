@@ -553,73 +553,79 @@ export const menuItemsData = [
         name: "Su",
         desc:
           "",
-        price: "10.00 ₺",
+        price: "15.00 ₺",
       },
       {
-        name: "AYRAN",
+        name: "Hayat Çocuk Su",
         desc:
           "",
         price: "15.00 ₺",
       },
       {
+        name: "AYRAN",
+        desc:
+          "",
+        price: "25.00 ₺",
+      },
+      {
         name: "COCA COLA",
         desc:
           "Original, Zero",
-        price: "30.00 ₺",
+        price: "40.00 ₺",
       },
       {
         name: "SPRITE/FANTA",
         desc:
           "",
-        price: "30.00 ₺",
+        price: "40.00 ₺",
       },
       {
         name: "ŞALGAM",
         desc:
           "ACILI, ACISIZ",
-        price: "30.00 ₺",
+        price: "35.00 ₺",
       },
       {
         name: "ŞIRA",
         desc:
           "",
-        price: "30.00 ₺",
+        price: "40.00 ₺",
       },
       {
         name: "Lİmonata (Şİşe)",
         desc:
           "",
-        price: "30.00 ₺",
+        price: "40.00 ₺",
       },
       {
         name: "Soda",
         desc:
           "Sade, Elma, Karpuz Çilek, Limon",
-        price: "20.00 ₺",
+        price: "25.00 ₺",
       },
       {
         name: "CHurchill",
         desc:
           "",
-        price: "30.00 ₺",
+        price: "35.00 ₺",
       },
       {
         name: "ULUDAĞ SADE GAZOZ",
         desc:
           "",
-        price: "30.00 ₺",
+        price: "35.00 ₺",
       },
       {
         name: "CAPPY MEYVE SUYU",
         desc:
           "Şeftali, Vişne, Kayısı, Karışık",
-        price: "30.00 ₺",
+        price: "40.00 ₺",
       },
       {
         name: "FUSE TEA",
         desc:
           "Şeftali, Limon, Mango, Karpuz",
-        price: "30.00 ₺",
+        price: "40.00 ₺",
       },
       /*
       {
@@ -692,49 +698,49 @@ export const menuItemsData = [
         name: "TÜRK KAHVESİ",
         desc:
           "",
-        price: "30.00 ₺",
+        price: "40.00 ₺",
       },
       {
         name: "SALEP",
         desc:
           "",
-        price: "40.00 ₺",
+        price: "50.00 ₺",
       },
       {
         name: "FİLTRE KAHVE",
         desc:
           "",
-        price: "50.00 ₺",
+        price: "60.00 ₺",
       },
       {
         name: "AMERICANO",
         desc:
           "",
-        price: "50.00 ₺",
+        price: "60.00 ₺",
       },
       {
         name: "CAPPUCCINO",
         desc:
           "",
-        price: "50.00 ₺",
+        price: "60.00 ₺",
       },
       {
         name: "ESPRESSO",
         desc:
           "",
-        price: "40.00 ₺",
+        price: "50.00 ₺",
       },
       {
         name: "LATTE",
         desc:
           "",
-        price: "50.00 ₺",
+        price: "60.00 ₺",
       },
       {
         name: "NESCAFE",
         desc:
           "",
-        price: "40.00 ₺",
+        price: "50.00 ₺",
       },
     ],
   },
@@ -746,91 +752,85 @@ export const menuItemsData = [
         name: "ÇİLEKLİ MAGNOLİA",
         desc:
           "",
-        price: "65.00 ₺",
+        price: "75.00 ₺",
       },
       {
         name: "OREO'LU MAGNOLİA",
         desc:
           "",
-        price: "65.00 ₺",
+        price: "75.00 ₺",
       },
       {
         name: "SÜTLAÇ",
         desc:
           "",
-        price: "55.00 ₺",
+        price: "60.00 ₺",
       },
       {
         name: "KEMALPAŞA",
         desc:
           "",
-        price: "45.00 ₺",
+        price: "60.00 ₺",
       },
       {
         name: "KABAK TATLISI",
         desc:
           "",
-        price: "50.00 ₺",
+        price: "60.00 ₺",
       },
       {
         name: "KÜNEFE",
         desc:
           "",
-        price: "60.00 ₺",
+        price: "75.00 ₺",
       },
       {
         name: "ANTEP KATMERİ",
         desc:
           "",
-        price: "75.00 ₺",
+        price: "90.00 ₺",
       },
       {
         name: "KAYMAKLI GÜL KATMER",
         desc:
           "",
-        price: "75.00 ₺",
+        price: "90.00 ₺",
       },
       {
         name: "GÜVEÇTE SUFLE",
         desc:
           "Dondurma ile servis edilir",
-        price: "70.00 ₺",
+        price: "110.00 ₺",
       },
       {
-        name: "BELÇİKA ÇİKOLATALI PASTA",
+        name: "DEVILS PASTA",
         desc:
           "",
-        price: "75.00 ₺",
-      },
-      {
-        name: "LATTE PASTA",
-        desc:
-          "",
-        price: "75.00 ₺",
+        price: "120.00 ₺",
       },
       {
         name: "TİRAMİSU",
         desc:
           "",
-        price: "75.00 ₺",
+        price: "110.00 ₺",
       },
       {
         name: "FRAMBUAZ CHEESECAKE",
         desc:
           "",
-        price: "75.00 ₺",
+        price: "125.00 ₺",
       },
       {
         name: "LİMONLU CHEESECAKE",
         desc:
           "",
-        price: "75.00 ₺",
+        price: "125.00 ₺",
       },
       {
         name: "FISTIK RÜYASI",
         desc:
           "",
-        price: "75.00 ₺",
+        price: "130.00 ₺",
       },
     ],
   },
