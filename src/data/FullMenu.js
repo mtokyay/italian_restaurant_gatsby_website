@@ -9,7 +9,7 @@ export const menuItemsData = [
         name: "AÇIK BÜFE KAHVALTI",
         desc:
           "Cumartesi - Pazar günleri 09:00-14:00 arasında kahvaltı servisimiz açık büfedir. 0-3 yaş ücretsizdir. 4-6 Yaş : 100.00₺. 7 ve üzeri:200.00₺",
-        price: "200.00 ₺",
+        price: "250.00 ₺",
       },
       {
         name: "SINIRSIZ Serpme KAHVALTI 2 KİŞİLİK",
@@ -27,61 +27,61 @@ export const menuItemsData = [
         name: "EKO KAHVALTI TABAĞI",
         desc:
           "Reçel, Tereyağ, Bal, Salatalık, Domates, Haşlanmış Yumurta, Siyah-Yeşil Zeytin, Beyaz Peynir, Kelle Peyniri, 1 Fincan Çay, Balon Pide.",
-        price: "75.00 ₺",
+        price: "120.00 ₺",
       },
       {
         name: "KAHVALTI TABAĞI",
         desc:
           "Reçel, Tereyağ, Bal-Kaymak, Domates, Mevsim Yeşillikleri, Haşlanmış Yumurta, Siyah-Yeşil Zeytin, Beyaz Peynir,Taze Kaşar Peyniri, Örgü Peynir, Çay, Balon Pide, Patates, Pişi, Sigara Böreği, Acuka.",
-        price: "120.00 ₺",
+        price: "150.00 ₺",
       },
       {
         name: "GÖZLEME",
         desc:
           "",
-        price: "70.00 ₺",
+        price: "120.00 ₺",
       },
       {
         name: "Sahanda Sucuk",
         desc:
           "",
-        price: "70.00 ₺",
+        price: "150.00 ₺",
       },
       {
         name: "Sahanda Yumurta",
         desc:
           "",
-        price: "50.00 ₺",
+        price: "70.00 ₺",
       },
       {
         name: "Sahanda PEYNİRLİ Yumurta",
         desc:
           "",
-        price: "65.00 ₺",
+        price: "100.00 ₺",
       },
       {
         name: "Sahanda SUCUKLU YUMURTA",
         desc:
           "",
-        price: "75.00 ₺",
+        price: "150.00 ₺",
       },
       {
         name: "SUCUKLU Menemen",
         desc:
           "Domates, Biber, Soğan, Salça, Sucuk.",
-        price: "80.00 ₺",
+        price: "150.00 ₺",
       },
       {
         name: "Menemen",
         desc:
           "Domates, Biber, Soğan, Salça",
-        price: "70.00 ₺",
+        price: "100.00 ₺",
       },
       {
         name: "Omlet",
         desc:
           "",
-        price: "50.00 ₺",
+        price: "100.00 ₺",
       },
       {
         name: "PEYNİRLİ Omlet",
@@ -94,6 +94,24 @@ export const menuItemsData = [
         desc:
           "",
         price: "70.00 ₺",
+      },
+      {
+        name: "HAŞLANMIŞ YUMURTA",
+        desc:
+          "",
+        price: "20.00 ₺",
+      },
+      {
+        name: "SICAK TABAĞI",
+        desc:
+          "",
+        price: "100.00 ₺",
+      },
+      {
+        name: "BAL KAYMAK",
+        desc:
+          "",
+        price: "120.00 ₺",
       },
     ],
   },
