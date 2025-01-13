@@ -220,7 +220,7 @@ export const menuItemsData = [
       {
         name: "İlave Cheddar Peynİrİ",
         desc:"Tüm hamburger ürünlerinde ekstra olarak isteyebilirsiniz.",
-        price: "+65.00 ₺",
+        price: "+30.00 ₺",
       },
     ],
   },
@@ -233,37 +233,37 @@ export const menuItemsData = [
         name: "LAHMACUN",
         desc:
           "",
-        price: "80.00 ₺",
+        price: "100.00 ₺",
       },
       {
         name: "KAŞARLI PİDE",
         desc:
           "",
-        price: "180.00 ₺",
+        price: "220.00 ₺",
       },
       {
         name: "MEVLANA PİDE",
         desc:
           "",
-        price: "180.00 ₺",
+        price: "220.00 ₺",
       },
       {
         name: "KUŞBAŞI PİDE",
         desc:
           "",
-        price: "180.00 ₺",
+        price: "220.00 ₺",
       },
       {
         name: "KIYMALI PİDE",
         desc:
           "",
-        price: "180.00 ₺",
+        price: "220.00 ₺",
       },
       {
         name: "SUCUKLU-KAŞARLI PİDE",
         desc:
           "",
-        price: "180.00 ₺",
+        price: "220.00 ₺",
       },
     ],
   },
@@ -378,7 +378,7 @@ export const menuItemsData = [
         name: "bonfİle",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "350.00 ₺",
+        price: "400.00 ₺",
       },
       {
         name: "KARIŞIK IZGARA",
@@ -465,22 +465,10 @@ export const menuItemsData = [
         price: "200.00 ₺",
       },
       {
-        name: "EKŞİLİ PİLİÇ",
-        desc:
-          "(Servis Süresi 30 Dakikadır)",
-        price: "200.00 ₺",
-      },
-      {
-        name: "EKŞİLİ BONFİLE",
-        desc:
-          "(Servis Süresi 30 Dakikadır)",
-        price: "350.00 ₺",
-      },
-      {
         name: "PİLİÇ FAJİTA",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "250.00 ₺",
+        price: "220.00 ₺",
       },
       {
         name: "ET FAJİTA",
@@ -513,12 +501,6 @@ export const menuItemsData = [
         price: "100.00 ₺",
       },
       {
-        name: "EKŞİLİ TOKYAY SALATA",
-        desc:
-          "Mevsim Yeşillikleri, Ekşi Elma, Nar, Ceviz, Kuru Meyve, Özel Sos.",
-        price: "120.00 ₺",
-      },
-      {
         name: "ÇOBAN SALATA",
         desc:
           "Domartes, Soğan, Salatalık, Biber, Maydonoz, Zeytinyağı, Limon Sos",
@@ -546,7 +528,7 @@ export const menuItemsData = [
         name: "ÇITIR PİLİÇ SALATA",
         desc:
           "Izgara Tavuk(100gr), Domates, Yeşil Elma, Rendelenmiş Parmesan Peyniri, Soğan, Çeri Domates, Zeytinyağı Limon Sos",
-        price: "140.00 ₺",
+        price: "200.00 ₺",
       },
       {
         name: "IZGARA PİLİÇ SALATA",
@@ -583,31 +565,31 @@ export const menuItemsData = [
         name: "AYRAN",
         desc:
           "",
-        price: "25.00 ₺",
+        price: "30.00 ₺",
       },
       {
         name: "COCA COLA",
         desc:
           "Original, Zero",
-        price: "40.00 ₺",
+        price: "50.00 ₺",
       },
       {
         name: "SPRITE/FANTA",
         desc:
           "",
-        price: "40.00 ₺",
+        price: "50.00 ₺",
       },
       {
         name: "ŞALGAM",
         desc:
           "ACILI, ACISIZ",
-        price: "35.00 ₺",
+        price: "50.00 ₺",
       },
       {
         name: "ŞIRA",
         desc:
           "",
-        price: "40.00 ₺",
+        price: "50.00 ₺",
       },
       {
         name: "Lİmonata (Şİşe)",
@@ -631,19 +613,19 @@ export const menuItemsData = [
         name: "ULUDAĞ SADE GAZOZ",
         desc:
           "",
-        price: "35.00 ₺",
+        price: "50.00 ₺",
       },
       {
         name: "CAPPY MEYVE SUYU",
         desc:
           "Şeftali, Vişne, Kayısı, Karışık",
-        price: "40.00 ₺",
+        price: "50.00 ₺",
       },
       {
         name: "FUSE TEA",
         desc:
           "Şeftali, Limon, Mango, Karpuz",
-        price: "40.00 ₺",
+        price: "50.00 ₺",
       },
       /*
       {
