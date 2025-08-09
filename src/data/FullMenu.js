@@ -9,31 +9,31 @@ export const menuItemsData = [
         name: "AÇIK BÜFE KAHVALTI",
         desc:
           "Cumartesi - Pazar günleri 09:00-14:00 arasında kahvaltı servisimiz açık büfedir. 0-3 yaş ücretsizdir. 4-6 Yaş : 150.00₺.",
-        price: "300.00 ₺",
+        price: "350.00 ₺",
       },
       {
         name: "SINIRSIZ Serpme KAHVALTI 2 KİŞİLİK",
         desc:
           "Yumurta(Sahan/Haşlanmış), Tahin, Pekmez, Bal-Kaymak, Zeytinyağı, Mevsim Yeşillikleri, Reçel Çeşitleri, Çikolata, Tereyağ, Domates, Salam, Kaşar Peyniri, Beyaz Peynir, Çeçil Peynir, Dil Peyniri, Kuru Meyveler, Balon Pide, Karışık Sıcak Tabağı, Siyah/Yeşil Zeytin, Kokteyl Zeytin, Acuka, Çay.",
-        price: "600.00 ₺",
+        price: "700.00 ₺",
       },
       {
         name: "Çoklu Serpme KAHVALTI",
         desc:
           "Unlu Mamuller, Yumurta(Sahan/Haşlanmış), Tahin, Pekmez, Bal-Kaymak, Zeytinyağı, Mevsim Yeşillikleri, Reçel Çeşitleri, Çikolata, Tereyağ, Domates, Salam, Kaşar Peyniri, Beyaz Peynir, Çeçil Peynir, Dil Peyniri, Kuru Meyveler, Balon Pide, Karışık Sıcak Tabağı, Siyah/Yeşil Zeytin, Kokteyl Zeytin, Acuka, Çay.",
-        price: "1000.00 ₺",
+        price: "1200.00 ₺",
       },
       {
         name: "EKO KAHVALTI TABAĞI",
         desc:
           "Reçel, Tereyağ, Bal, Salatalık, Domates, Haşlanmış Yumurta, Siyah-Yeşil Zeytin, Beyaz Peynir, Kelle Peyniri, 1 Fincan Çay, Balon Pide.",
-        price: "150.00 ₺",
+        price: "175.00 ₺",
       },
       {
         name: "STANDART KAHVALTI TABAĞI",
         desc:
           "Reçel, Tereyağ, Bal-Kaymak, Domates, Mevsim Yeşillikleri, Haşlanmış Yumurta, Siyah-Yeşil Zeytin, Beyaz Peynir,Taze Kaşar Peyniri, Örgü Peynir, Çay, Balon Pide, Patates, Pişi, Sigara Böreği, Acuka.",
-        price: "200.00 ₺",
+        price: "220.00 ₺",
       },
       {
         name: "GÖZLEME",
@@ -63,19 +63,19 @@ export const menuItemsData = [
         name: "Sahanda SUCUKLU YUMURTA",
         desc:
           "",
-        price: "200.00 ₺",
+        price: "220.00 ₺",
       },
       {
         name: "SUCUKLU Menemen",
         desc:
           "Domates, Biber, Soğan, Salça, Sucuk.",
-        price: "200.00 ₺",
+        price: "220.00 ₺",
       },
       {
         name: "Menemen",
         desc:
           "Domates, Biber, Soğan, Salça",
-        price: "150.00 ₺",
+        price: "180.00 ₺",
       },
       {
         name: "Omlet",
@@ -93,7 +93,7 @@ export const menuItemsData = [
         name: "SUCUKLU Omlet",
         desc:
           "",
-        price: "200.00 ₺",
+        price: "220.00 ₺",
       },
     ],
   },
@@ -105,7 +105,7 @@ export const menuItemsData = [
         name: "KASAP ÇORBASI",
         desc:
           "",
-        price: "120.00 ₺",
+        price: "150.00 ₺",
       },
       {
         name: "Günün Çorbası",
@@ -117,25 +117,25 @@ export const menuItemsData = [
         name: "Tava Yoğurt",
         desc:
           "",
-        price: "80.00 ₺",
+        price: "100.00 ₺",
       },
       {
         name: "Patates Kızartması",
         desc:
           "Kajun Baharatı",
-        price: "120.00 ₺",
+        price: "150.00 ₺",
       },
       {
         name: "Keyİf Sepetİ",
         desc:
           "Soğan Halkası, Mozarella Stick, Patates Kızartması, Sosis",
-        price: "240.00 ₺",
+        price: "300.00 ₺",
       },
       {
         name: "Soğan Halkası",
         desc:
           "8 Adet Soğan Halkası ve Patates ile Servis Edilir.",
-        price: "140.00 ₺",
+        price: "180.00 ₺",
       },
     ],
   },
@@ -147,17 +147,17 @@ export const menuItemsData = [
       {
         name: "Hamburger",
         desc:"Hamburger Köftesi, Kıvırcık Marul, Domates, Salatalık Turşusu, Karamelize Soğan, Patates Kızartması (Servis Süresi 30 Dakikadır)",
-        price: "280.00 ₺",
+        price: "320.00 ₺",
       },
       {
         name: "Cheese Burger",
         desc:"Hamburger Köftesi, Cheddar, Kıvırcık Marul, Domates, Salatalık Turşusu, Karamelize Soğan, Özel Ballı Hardallı Sos, Patates Kızartması (Servis Süresi 30 Dakikadır)",
-        price: "300.00 ₺",
+        price: "350.00 ₺",
       },
       {
         name: "Çocuk Burger",
         desc:"Hamburger Köftesi, Kıvırcık Marul, Domates, Salatalık Turşusu, Patates Kızartması (Servis Süresi 30 Dakikadır)",
-        price: "160.00 ₺",
+        price: "180.00 ₺",
       },
       {
         name: "Lokum Burger",
@@ -172,22 +172,22 @@ export const menuItemsData = [
       {
         name: "Piliç Burger",
         desc:"Özel soslanmış piliç(150gr), Kıvırcık Marul, Özel Sos ve Patates Kızartması (Servis Süresi 30 Dakikadır)",
-        price: "250.00 ₺",
+        price: "300.00 ₺",
       },
       {
         name: "Füme Burger",
         desc:"Hamburger Köftesi(150 gr), Dana Füme, Cheddar, Kıvırcık Marul, Domates, Salatalık Turşusu, Karamelize Soğan, Özel Ballı Hardallı Sos, Patates Kızartması (Servis Süresi 30 Dakikadır)",
-        price: "340.00 ₺",
+        price: "370.00 ₺",
       },
       {
         name: "Tokyay XLarge Burger",
         desc:"2 Adet Hamburger Köftesi (2 x 150 gr), 2 Adet Cheddar Peyniri, Kıvırcık Marul, Domates, Soğan, Turşu",
-        price: "420.00 ₺",
+        price: "450.00 ₺",
       },
       {
         name: "İlave Cheddar Peynİrİ",
         desc:"Tüm hamburger ürünlerinde ekstra olarak isteyebilirsiniz.",
-        price: "+30.00 ₺",
+        price: "+40.00 ₺",
       },
     ],
   },
@@ -200,37 +200,37 @@ export const menuItemsData = [
         name: "LAHMACUN",
         desc:
           "",
-        price: "120.00 ₺",
+        price: "150.00 ₺",
       },
       {
         name: "KAŞARLI PİDE",
         desc:
           "",
-        price: "240.00 ₺",
+        price: "250.00 ₺",
       },
       {
         name: "MEVLANA PİDE",
         desc:
           "",
-        price: "240.00 ₺",
+        price: "250.00 ₺",
       },
       {
         name: "KUŞBAŞI PİDE",
         desc:
           "",
-        price: "240.00 ₺",
+        price: "250.00 ₺",
       },
       {
         name: "KIYMALI PİDE",
         desc:
           "",
-        price: "240.00 ₺",
+        price: "250.00 ₺",
       },
       {
         name: "SUCUKLU-KAŞARLI PİDE",
         desc:
           "",
-        price: "240.00 ₺",
+        price: "250.00 ₺",
       },
     ],
   },
@@ -243,31 +243,31 @@ export const menuItemsData = [
         name: "KİREMİTTE KÖFTE",
         desc:
           "",
-        price: "280.00 ₺",
+        price: "310.00 ₺",
       },
       {
         name: "KİREMİTTE KAŞARLI KÖFTE",
         desc:
           "",
-        price: "300.00 ₺",
+        price: "340.00 ₺",
       },
       {
         name: "BONFİLE ÇOBAN KAVURMA",
         desc:
           "Bonfile Eti, Çarli Biber, Kapya Biber, Soğan, Sarımsak (Servis Süresi 30 Dakikadır)",
-        price: "500.00 ₺",
+        price: "550.00 ₺",
       },
       {
         name: "SAÇ KAVURMA",
         desc:
           "",
-        price: "400.00 ₺",
+        price: "450.00 ₺",
       },
       {
         name: "MANTAR GRATEN",
         desc:
           "",
-        price: "200.00 ₺",
+        price: "250.00 ₺",
       },
     ],
   },
@@ -315,25 +315,25 @@ export const menuItemsData = [
         name: "Kasap Köfte",
         desc:
           "5 Adet (200 Gr) (Servis Süresi 30 Dakikadır)",
-        price: "250.00 ₺",
+        price: "280.00 ₺",
       },
       {
         name: "Kaşarli Köfte ",
         desc:
           "4 Adet (200 Gr) (Servis Süresi 30 Dakikadır)",
-        price: "280.00 ₺",
+        price: "310.00 ₺",
       },
       {
         name: "PİLİÇ Izgara ",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "250.00 ₺",
+        price: "280.00 ₺",
       },
       {
         name: "Sucuk Izgara ",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "250.00 ₺",
+        price: "280.00 ₺",
       },
       {
         name: "Antrİkot",
@@ -351,7 +351,7 @@ export const menuItemsData = [
         name: "KARIŞIK IZGARA",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "600.00 ₺",
+        price: "800.00 ₺",
       },
       {
         name: "CİĞER ŞİŞ",
@@ -387,13 +387,13 @@ export const menuItemsData = [
         name: "ETLİ WRAP",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "300.00 ₺",
+        price: "350.00 ₺",
       },
       {
         name: "TAVUKLU WRAP",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "250.00 ₺",
+        price: "300.00 ₺",
       },
     ],
   },
@@ -405,43 +405,43 @@ export const menuItemsData = [
         name: "KREMALI MANTARLI PİLİÇ",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "280.00 ₺",
+        price: "300.00 ₺",
       },
       {
         name: "BARBEKÜ SOSLU PİLİÇ",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "280.00 ₺",
+        price: "300.00 ₺",
       },
       {
         name: "KÖRİ SOSLU PİLİÇ",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "280.00 ₺",
+        price: "300.00 ₺",
       },
       {
         name: "TATLI - ACI SOSLU PİLİÇ",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "280.00 ₺",
+        price: "300.00 ₺",
       },
       {
         name: "PİLİÇ FAJİTA",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "280.00 ₺",
+        price: "300.00 ₺",
       },
       {
         name: "ET FAJİTA",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "400.00 ₺",
+        price: "500.00 ₺",
       },
       {
         name: "ÇÖKERTME KEBABI",
         desc:
           "(Servis Süresi 30 Dakikadır)",
-        price: "440.00 ₺",
+        price: "500.00 ₺",
       },
     ],
   },
@@ -489,7 +489,7 @@ export const menuItemsData = [
         name: "IZGARA PİLİÇ SALATA",
         desc:
           "Izgara Tavuk(100gr), Domates, Yeşil Elma, Rendelenmiş Parmesan Peyniri, Soğan, Çeri Domates, Zeytinyağı Limon Sos",
-        price: "100.00 ₺",
+        price: "300.00 ₺",
       },
       {
         name: "IZGARA BONFİLE SALATA",
@@ -507,74 +507,74 @@ export const menuItemsData = [
       {
         name: "Su",
         desc:
-          "",
-        price: "30.00 ₺",
+          "Küçük/Büyük",
+        price: "30.00 / 40.00 ₺",
       },
       {
         name: "AYRAN",
         desc:
           "",
-        price: "30.00 ₺",
+        price: "40.00 ₺",
       },
       {
         name: "COCA COLA",
         desc:
           "Original, Zero",
-        price: "50.00 ₺",
+        price: "60.00 ₺",
       },
       {
         name: "SPRITE/FANTA",
         desc:
           "",
-        price: "50.00 ₺",
+        price: "60.00 ₺",
       },
       {
         name: "ŞALGAM",
         desc:
           "ACILI, ACISIZ",
-        price: "50.00 ₺",
+        price: "60.00 ₺",
       },
       {
         name: "ŞIRA",
         desc:
           "",
-        price: "50.00 ₺",
+        price: "60.00 ₺",
       },
       {
         name: "Lİmonata (Şİşe)",
         desc:
           "",
-        price: "50.00 ₺",
+        price: "80.00 ₺",
       },
       {
         name: "Soda",
         desc:
           "Sade, Elma, Karpuz Çilek, Limon",
-        price: "30.00 ₺",
+        price: "40.00 ₺",
       },
       {
         name: "CHurchill",
         desc:
           "",
-        price: "40.00 ₺",
+        price: "60.00 ₺",
       },
       {
         name: "ULUDAĞ SADE GAZOZ",
         desc:
           "",
-        price: "50.00 ₺",
+        price: "60.00 ₺",
       },
       {
         name: "CAPPY MEYVE SUYU",
         desc:
           "Şeftali, Vişne, Kayısı, Karışık",
-        price: "50.00 ₺",
+        price: "60.00 ₺",
       },
       {
         name: "FUSE TEA",
         desc:
           "Şeftali, Limon, Mango, Karpuz",
-        price: "50.00 ₺",
+        price: "60.00 ₺",
       },
       /*
       {
@@ -605,19 +605,19 @@ export const menuItemsData = [
         name: "ÇAY",
         desc:
           "",
-        price: "10.00 ₺",
+        price: "20.00 ₺",
       },
       {
         name: "BİTKİ ÇAYLARI",
         desc:
           "Ihlamur, Adaçayı, Yeşil Çay, Papatya.",
-        price: "60.00 ₺",
+        price: "100.00 ₺",
       },
       {
         name: "ORALET",
         desc:
           "",
-        price: "10.00 ₺",
+        price: "20.00 ₺",
       },/*
       {
         name: "IHLAMUR",
@@ -653,49 +653,49 @@ export const menuItemsData = [
         name: "TÜRK KAHVESİ",
         desc:
           "",
-        price: "40.00 ₺",
+        price: "60.00 ₺",
       },
       {
         name: "SALEP",
         desc:
           "",
-        price: "80.00 ₺",
+        price: "100.00 ₺",
       },
       {
         name: "FİLTRE KAHVE",
         desc:
           "",
-        price: "100.00 ₺",
+        price: "140.00 ₺",
       },
       {
         name: "AMERICANO",
         desc:
           "",
-        price: "100.00 ₺",
+        price: "140.00 ₺",
       },
       {
         name: "CAPPUCCINO",
         desc:
           "",
-        price: "100.00 ₺",
+        price: "140.00 ₺",
       },
       {
         name: "ESPRESSO",
         desc:
           "",
-        price: "80.00 ₺",
+        price: "100.00 ₺",
       },
       {
         name: "LATTE",
         desc:
           "",
-        price: "100.00 ₺",
+        price: "150.00 ₺",
       },
       {
         name: "NESCAFE",
         desc:
           "",
-        price: "80.00 ₺",
+        price: "100.00 ₺",
       },
     ],
   },
@@ -707,49 +707,49 @@ export const menuItemsData = [
         name: "ÇİLEKLİ MAGNOLİA",
         desc:
           "",
-        price: "100.00 ₺",
+        price: "120.00 ₺",
       },
       {
         name: "OREO'LU MAGNOLİA",
         desc:
           "",
-        price: "100.00 ₺",
+        price: "120.00 ₺",
       },
       {
         name: "SÜTLAÇ",
         desc:
           "",
-        price: "100.00 ₺",
+        price: "120.00 ₺",
       },
       {
         name: "KEMALPAŞA",
         desc:
           "",
-        price: "100.00 ₺",
+        price: "120.00 ₺",
       },
       {
         name: "KABAK TATLISI",
         desc:
           "",
-        price: "100.00 ₺",
+        price: "120.00 ₺",
       },
       {
         name: "KÜNEFE",
         desc:
           "",
-        price: "100.00 ₺",
+        price: "150.00 ₺",
       },
       {
         name: "ANTEP KATMERİ",
         desc:
           "",
-        price: "120.00 ₺",
+        price: "180.00 ₺",
       },
       {
         name: "KAYMAKLI GÜL KATMER",
         desc:
           "",
-        price: "130.00 ₺",
+        price: "200.00 ₺",
       },
       {
         name: "GÜVEÇTE SUFLE",
