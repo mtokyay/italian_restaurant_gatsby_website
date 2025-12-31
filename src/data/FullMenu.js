@@ -195,7 +195,7 @@ export const menuItemsData = [
         price: "800.00 ₺",
       },
       {
-        name: "SAÇ KAVURMA",
+        name: "SAC KAVURMA",
         desc:
           "",
         price: "500.00 ₺",
@@ -444,7 +444,7 @@ export const menuItemsData = [
         name: "ULUDAĞ SADE GAZOZ",
         desc:
           "",
-        price: "60.00 ₺",
+        price: "70.00 ₺",
       },
       {
         name: "SOĞUK MEŞRUBAT ÇEŞİTLERİ",
